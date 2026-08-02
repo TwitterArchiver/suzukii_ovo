@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950120650271838211",
+        "3_1950120650292809731"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1950120664695779504",
+    "created_at": "2025-07-29T09:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T10:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950120664695779504"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 3,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "地雷系"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e8yrw6IH06",
+          "end": 46,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1950120664695779504/photo/1",
+          "media_key": "3_1950120650271838211",
+          "start": 23,
+          "url": "https://t.co/e8yrw6IH06"
+        },
+        {
+          "display_url": "pic.x.com/e8yrw6IH06",
+          "end": 46,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1950120664695779504/photo/1",
+          "media_key": "3_1950120650292809731",
+          "start": 23,
+          "url": "https://t.co/e8yrw6IH06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950120664695779504",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤍💜\n#自撮り界隈さんと繋がりたい #地雷系 https://t.co/e8yrw6IH06"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950120650271838211",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxA4ZjSbUAMcj8U.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950120650292809731",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxA4ZjXbUAMD8Dg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950120650271838211",
+            "3_1950120650292809731"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1950120664695779504",
+        "created_at": "2025-07-29T09:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T10:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950120664695779504"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 3,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8yrw6IH06",
+              "end": 46,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1950120664695779504/photo/1",
+              "media_key": "3_1950120650271838211",
+              "start": 23,
+              "url": "https://t.co/e8yrw6IH06"
+            },
+            {
+              "display_url": "pic.x.com/e8yrw6IH06",
+              "end": 46,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1950120664695779504/photo/1",
+              "media_key": "3_1950120650292809731",
+              "start": 23,
+              "url": "https://t.co/e8yrw6IH06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950120664695779504",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤍💜\n#自撮り界隈さんと繋がりたい #地雷系 https://t.co/e8yrw6IH06"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "我只是个脆弱的小女孩。过门私信",
+        "id": "1909540060699279362",
+        "name": "豆芽好好吃",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941607774821154818/onsSD976_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 24,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 36
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

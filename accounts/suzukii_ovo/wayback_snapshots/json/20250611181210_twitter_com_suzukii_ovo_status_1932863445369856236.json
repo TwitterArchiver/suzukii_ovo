@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932863432451342336"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1932863445369856236",
+    "created_at": "2025-06-11T18:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T19:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932863445369856236"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 2,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 15,
+          "start": 9,
+          "tag": "自撮り女子"
+        },
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "KRY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LkXrqEwGWw",
+          "end": 44,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1932863445369856236/photo/1",
+          "media_key": "3_1932863432451342336",
+          "start": 21,
+          "url": "https://t.co/LkXrqEwGWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932863445369856236",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🦴\n#地雷系女子 #自撮り女子 #KRY https://t.co/LkXrqEwGWw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932863432451342336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtLpDRKawAAlJsY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932863432451342336"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1932863445369856236",
+        "created_at": "2025-06-11T18:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T19:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932863445369856236"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 2,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "自撮り女子"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "KRY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LkXrqEwGWw",
+              "end": 44,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1932863445369856236/photo/1",
+              "media_key": "3_1932863432451342336",
+              "start": 21,
+              "url": "https://t.co/LkXrqEwGWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932863445369856236",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🦴\n#地雷系女子 #自撮り女子 #KRY https://t.co/LkXrqEwGWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "萌妹子和我互fo",
+        "id": "1909540060699279362",
+        "name": "AAA-豆芽种植批发 牙齿哥",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921508426666180608/IsUQOSok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 35,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 16
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921508222906540032",
+        "3_1921508222734827520",
+        "3_1921508222898143233"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1921508244658221251",
+    "created_at": "2025-05-11T10:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T11:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921508244658221251"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 14,
+          "start": 8,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "地雷系と繋がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nuRLKQ5uqT",
+          "end": 49,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1921508244658221251/photo/1",
+          "media_key": "3_1921508222906540032",
+          "start": 26,
+          "url": "https://t.co/nuRLKQ5uqT"
+        },
+        {
+          "display_url": "pic.x.com/nuRLKQ5uqT",
+          "end": 49,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1921508244658221251/photo/1",
+          "media_key": "3_1921508222734827520",
+          "start": 26,
+          "url": "https://t.co/nuRLKQ5uqT"
+        },
+        {
+          "display_url": "pic.x.com/nuRLKQ5uqT",
+          "end": 49,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1921508244658221251/photo/1",
+          "media_key": "3_1921508222898143233",
+          "start": 26,
+          "url": "https://t.co/nuRLKQ5uqT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921508244658221251",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈  #地雷系女子 #地雷系と繋がりたい https://t.co/nuRLKQ5uqT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921508222906540032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqRjFNWIAA2I9l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921508222734827520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqRjEkaAAAFlb6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921508222898143233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqRjFLWAAEKXIh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921508222906540032",
+            "3_1921508222734827520",
+            "3_1921508222898143233"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1921508244658221251",
+        "created_at": "2025-05-11T10:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T11:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921508244658221251"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "地雷系と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nuRLKQ5uqT",
+              "end": 49,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1921508244658221251/photo/1",
+              "media_key": "3_1921508222906540032",
+              "start": 26,
+              "url": "https://t.co/nuRLKQ5uqT"
+            },
+            {
+              "display_url": "pic.x.com/nuRLKQ5uqT",
+              "end": 49,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1921508244658221251/photo/1",
+              "media_key": "3_1921508222734827520",
+              "start": 26,
+              "url": "https://t.co/nuRLKQ5uqT"
+            },
+            {
+              "display_url": "pic.x.com/nuRLKQ5uqT",
+              "end": 49,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1921508244658221251/photo/1",
+              "media_key": "3_1921508222898143233",
+              "start": 26,
+              "url": "https://t.co/nuRLKQ5uqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921508244658221251",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈  #地雷系女子 #地雷系と繋がりたい https://t.co/nuRLKQ5uqT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "",
+        "id": "1909540060699279362",
+        "name": "Yukarii_✝︎☆₊⁺",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909540664020439040/5OKP6sRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 26,
+          "like_count": 65,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2056631443301011765",
+    "created_at": "2026-05-19T07:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056631443301011765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1658058554455240704",
+          "start": 3,
+          "username": "kuanyan1187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056631443301011765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056541754539876711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuanyan1187: 520互相转点钱然后草比？你们这他妈是卖淫知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2056631443301011765",
+        "created_at": "2026-05-19T07:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056631443301011765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1658058554455240704",
+              "start": 3,
+              "username": "kuanyan1187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056631443301011765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056541754539876711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuanyan1187: 520互相转点钱然后草比？你们这他妈是卖淫知道吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658058554455240704",
+        "conversation_id": "2056541754539876711",
+        "created_at": "2026-05-19T01:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056541754539876711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056541754539876711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9879,
+          "like_count": 195,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "520互相转点钱然后草比？你们这他妈是卖淫知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 \n低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 104,
+          "like_count": 1366,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 205
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T10:35:46.000Z",
+        "description": "直男",
+        "id": "1658058554455240704",
+        "name": "鱼",
+        "pinned_tweet_id": "2056061922232209514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030978716369817600/pNxZiic8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2378,
+          "following_count": 95,
+          "like_count": 129,
+          "listed_count": 13,
+          "media_count": 12,
+          "tweet_count": 37
+        },
+        "username": "kuanyan1187",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "1981343898820866396",
+    "created_at": "2025-10-23T12:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T13:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981343898820866396"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981343898820866396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想把头发染黑了😔我不想当地雷妹了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "1981343898820866396",
+        "created_at": "2025-10-23T12:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T13:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981343898820866396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981343898820866396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想把头发染黑了😔我不想当地雷妹了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "1947558469709795478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 41,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 43
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

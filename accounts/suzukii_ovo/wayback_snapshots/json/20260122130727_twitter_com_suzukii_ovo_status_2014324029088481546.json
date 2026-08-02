@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014284360686751744"
+      ],
+      "media_source_tweet_id": [
+        "2014284371172483307"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2014324029088481546",
+    "created_at": "2026-01-22T13:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T14:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014324029088481546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007385862754230272",
+          "start": 3,
+          "username": "ovo_sequel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O8F53RtWNf",
+          "end": 116,
+          "expanded_url": "https://x.com/ovo_sequel/status/2014284371172483307/photo/1",
+          "media_key": "3_2014284360686751744",
+          "start": 93,
+          "url": "https://t.co/O8F53RtWNf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014324029088481546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014284371172483307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovo_sequel: 续集\n坐标广州/深圳\n88/188/288\n88好友位+朋友圈\n188线上陪聊\n288开放线下\n女孩子可以找我互转\n关注转发点赞评论500fo抽3个52 https://t.co/O8F53RtWNf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014324029088481546].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014324029088481546",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014324029088481546"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014284360686751744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Qs9DNb0AAfewI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014284360686751744"
+          ]
+        },
+        "author_id": "2007385862754230272",
+        "conversation_id": "2014284371172483307",
+        "created_at": "2026-01-22T10:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014284371172483307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8F53RtWNf",
+              "end": 100,
+              "expanded_url": "https://x.com/ovo_sequel/status/2014284371172483307/photo/1",
+              "media_key": "3_2014284360686751744",
+              "start": 77,
+              "url": "https://t.co/O8F53RtWNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014284371172483307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "续集\n坐标广州/深圳\n88/188/288\n88好友位+朋友圈\n188线上陪聊\n288开放线下\n女孩子可以找我互转\n关注转发点赞评论500fo抽3个52 https://t.co/O8F53RtWNf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 75,
+          "like_count": 650,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 113
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T09:37:54.000Z",
+        "description": "我什么都不知道@sequel_ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "sequel_ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/seuqelisctue13…",
+                "end": 23,
+                "expanded_url": "https://t.me/seuqelisctue1314",
+                "start": 0,
+                "url": "https://t.co/N4hIM8r2Et"
+              }
+            ]
+          }
+        },
+        "id": "2007385862754230272",
+        "location": "🚪88/188/288",
+        "name": "续集",
+        "pinned_tweet_id": "2014284418391978050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007386040500355072/yCmkQ7S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 31,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/N4hIM8r2Et",
+        "username": "ovo_sequel",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "1956237754146414851",
+    "created_at": "2025-08-15T15:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T16:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956374429023224294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1569966034035134464",
+          "start": 0,
+          "username": "sukixi_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956374429023224294",
+    "in_reply_to_user_id": "1569966034035134464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956237754146414851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukixi_ovo 這也太萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2370,
+        "media_key": "3_1956237744516296704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXz3TIa8AAGM9d.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "1956237754146414851",
+        "created_at": "2025-08-15T15:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T16:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956374429023224294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569966034035134464",
+              "start": 0,
+              "username": "sukixi_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956374429023224294",
+        "in_reply_to_user_id": "1569966034035134464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956237754146414851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukixi_ovo 這也太萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956237744516296704"
+          ]
+        },
+        "author_id": "1569966034035134464",
+        "conversation_id": "1956237754146414851",
+        "created_at": "2025-08-15T06:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T07:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956237754146414851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BTJP48pJGf",
+              "end": 30,
+              "expanded_url": "https://x.com/sukixi_ovo/status/1956237754146414851/photo/1",
+              "media_key": "3_1956237744516296704",
+              "start": 7,
+              "url": "https://t.co/BTJP48pJGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956237754146414851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1055,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "無加工🌚👌🏻 https://t.co/BTJP48pJGf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 31,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 25
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T08:27:37.000Z",
+        "description": "小惜/セキ丨shtwt丨病み垢丨承認欲求｜我只想變成透明消失在這個世界和所有人的視線裡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/70514062Sd9aZ",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/70514062Sd9aZ",
+                "start": 0,
+                "url": "https://t.co/W6VG0bHf1j"
+              }
+            ]
+          }
+        },
+        "id": "1569966034035134464",
+        "location": "地獄の靈魂擺渡人",
+        "name": "可塑性人格",
+        "pinned_tweet_id": "1951721325242024277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870634739520135168/nt3RQBjy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6021,
+          "following_count": 147,
+          "like_count": 928,
+          "listed_count": 8,
+          "media_count": 140,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/W6VG0bHf1j",
+        "username": "sukixi_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

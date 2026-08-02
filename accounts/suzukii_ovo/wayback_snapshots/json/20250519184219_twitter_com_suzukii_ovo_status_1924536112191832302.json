@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924536102326824960"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1924536112191832302",
+    "created_at": "2025-05-19T18:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T19:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924536112191832302"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 13,
+          "start": 7,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "地雷系"
+        },
+        {
+          "end": 28,
+          "start": 19,
+          "tag": "jiraikei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YaBUMHYnOG",
+          "end": 52,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1924536112191832302/photo/1",
+          "media_key": "3_1924536102326824960",
+          "start": 29,
+          "url": "https://t.co/YaBUMHYnOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924536112191832302",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈 #地雷系女子 #地雷系 #jiraikei https://t.co/YaBUMHYnOG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924536102326824960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrVTY3Ca8AAdY0e.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924536102326824960"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1924536112191832302",
+        "created_at": "2025-05-19T18:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T19:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924536112191832302"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "地雷系"
+            },
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "jiraikei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaBUMHYnOG",
+              "end": 52,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1924536112191832302/photo/1",
+              "media_key": "3_1924536102326824960",
+              "start": 29,
+              "url": "https://t.co/YaBUMHYnOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924536112191832302",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 #地雷系女子 #地雷系 #jiraikei https://t.co/YaBUMHYnOG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "萌妹子和我互fo",
+        "id": "1909540060699279362",
+        "name": "牙牙牙牙",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921508426666180608/IsUQOSok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 23,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 10
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

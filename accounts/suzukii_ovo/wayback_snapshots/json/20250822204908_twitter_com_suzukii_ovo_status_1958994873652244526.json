@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958994860561899522",
+        "3_1958994860599648256",
+        "3_1958994860574482433",
+        "3_1958994860595453954"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1958994873652244526",
+    "created_at": "2025-08-22T20:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T21:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958994873652244526"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 11,
+          "tag": "地雷系女子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RggcilZFpu",
+          "end": 41,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1958994873652244526/photo/1",
+          "media_key": "3_1958994860561899522",
+          "start": 18,
+          "url": "https://t.co/RggcilZFpu"
+        },
+        {
+          "display_url": "pic.x.com/RggcilZFpu",
+          "end": 41,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1958994873652244526/photo/1",
+          "media_key": "3_1958994860599648256",
+          "start": 18,
+          "url": "https://t.co/RggcilZFpu"
+        },
+        {
+          "display_url": "pic.x.com/RggcilZFpu",
+          "end": 41,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1958994873652244526/photo/1",
+          "media_key": "3_1958994860574482433",
+          "start": 18,
+          "url": "https://t.co/RggcilZFpu"
+        },
+        {
+          "display_url": "pic.x.com/RggcilZFpu",
+          "end": 41,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1958994873652244526/photo/1",
+          "media_key": "3_1958994860595453954",
+          "start": 18,
+          "url": "https://t.co/RggcilZFpu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958994873652244526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得我该更新这里了\n#地雷系女子 https://t.co/RggcilZFpu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958994860561899522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy-_ckyboAI6Xej.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958994860599648256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy-_ck7boAAwrpD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958994860574482433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy-_ck1boAE7OmL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958994860595453954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy-_ck6boAI_xLz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958994860561899522",
+            "3_1958994860599648256",
+            "3_1958994860574482433",
+            "3_1958994860595453954"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1958994873652244526",
+        "created_at": "2025-08-22T20:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T21:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958994873652244526"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RggcilZFpu",
+              "end": 41,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1958994873652244526/photo/1",
+              "media_key": "3_1958994860561899522",
+              "start": 18,
+              "url": "https://t.co/RggcilZFpu"
+            },
+            {
+              "display_url": "pic.x.com/RggcilZFpu",
+              "end": 41,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1958994873652244526/photo/1",
+              "media_key": "3_1958994860599648256",
+              "start": 18,
+              "url": "https://t.co/RggcilZFpu"
+            },
+            {
+              "display_url": "pic.x.com/RggcilZFpu",
+              "end": 41,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1958994873652244526/photo/1",
+              "media_key": "3_1958994860574482433",
+              "start": 18,
+              "url": "https://t.co/RggcilZFpu"
+            },
+            {
+              "display_url": "pic.x.com/RggcilZFpu",
+              "end": 41,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1958994873652244526/photo/1",
+              "media_key": "3_1958994860595453954",
+              "start": 18,
+              "url": "https://t.co/RggcilZFpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958994873652244526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我该更新这里了\n#地雷系女子 https://t.co/RggcilZFpu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "1947558469709795478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 31,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 28
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

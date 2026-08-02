@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2037197570267898235",
+    "created_at": "2026-03-27T11:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T12:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037492521367204039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037124215426736128",
+          "start": 0,
+          "username": "huimieb777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037492521367204039",
+    "in_reply_to_user_id": "2037124215426736128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037197570267898235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimieb777 笑晕了啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2037197570267898235",
+        "created_at": "2026-03-27T11:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037492521367204039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037124215426736128",
+              "start": 0,
+              "username": "huimieb777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037492521367204039",
+        "in_reply_to_user_id": "2037124215426736128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037197570267898235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimieb777 笑晕了啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037124215426736128",
+        "conversation_id": "2037197570267898235",
+        "created_at": "2026-03-26T15:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037197570267898235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037197570267898235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16246,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "严浩翔信用分能借出来充电宝不？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔 不接任何线下别来私信我",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 95,
+          "like_count": 944,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 143
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T11:07:23.000Z",
+        "description": "我的人生被掏粪毁了",
+        "id": "2037124215426736128",
+        "name": "毁灭吧",
+        "pinned_tweet_id": "2037234084494402047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037124522403610624/MXSCtXtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "username": "huimieb777",
+        "verified": false
+      }
+    ]
+  }
+}

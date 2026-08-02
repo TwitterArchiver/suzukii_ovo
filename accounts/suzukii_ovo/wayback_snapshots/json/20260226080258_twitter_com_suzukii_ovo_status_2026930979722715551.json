@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026930954154160134",
+        "3_2026930954120605697",
+        "3_2026930954175131651"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2026930979722715551",
+    "created_at": "2026-02-26T08:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026930979722715551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jOyWPSUWGg",
+          "end": 30,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2026930979722715551/photo/1",
+          "media_key": "3_2026930954154160134",
+          "start": 7,
+          "url": "https://t.co/jOyWPSUWGg"
+        },
+        {
+          "display_url": "pic.x.com/jOyWPSUWGg",
+          "end": 30,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2026930979722715551/photo/1",
+          "media_key": "3_2026930954120605697",
+          "start": 7,
+          "url": "https://t.co/jOyWPSUWGg"
+        },
+        {
+          "display_url": "pic.x.com/jOyWPSUWGg",
+          "end": 30,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2026930979722715551/photo/1",
+          "media_key": "3_2026930954175131651",
+          "start": 7,
+          "url": "https://t.co/jOyWPSUWGg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026930979722715551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "麻花辫qwq https://t.co/jOyWPSUWGg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026930954154160134",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEa9rKaMAYQoTD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026930954120605697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEa9rCaMAE1_Wo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026930954175131651",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEa9rPaMAMt191.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026930954154160134",
+            "3_2026930954120605697",
+            "3_2026930954175131651"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2026930979722715551",
+        "created_at": "2026-02-26T08:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026930979722715551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOyWPSUWGg",
+              "end": 30,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2026930979722715551/photo/1",
+              "media_key": "3_2026930954154160134",
+              "start": 7,
+              "url": "https://t.co/jOyWPSUWGg"
+            },
+            {
+              "display_url": "pic.x.com/jOyWPSUWGg",
+              "end": 30,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2026930979722715551/photo/1",
+              "media_key": "3_2026930954120605697",
+              "start": 7,
+              "url": "https://t.co/jOyWPSUWGg"
+            },
+            {
+              "display_url": "pic.x.com/jOyWPSUWGg",
+              "end": 30,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2026930979722715551/photo/1",
+              "media_key": "3_2026930954175131651",
+              "start": 7,
+              "url": "https://t.co/jOyWPSUWGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026930979722715551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麻花辫qwq https://t.co/jOyWPSUWGg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 74,
+          "like_count": 663,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 104
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

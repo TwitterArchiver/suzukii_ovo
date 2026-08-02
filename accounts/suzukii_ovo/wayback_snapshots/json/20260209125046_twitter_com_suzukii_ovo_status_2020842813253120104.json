@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2020626092093297055",
+    "created_at": "2026-02-09T12:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T13:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020842813253120104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1840825322935078912",
+          "start": 0,
+          "username": "andrea_lot16995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020842813253120104",
+    "in_reply_to_user_id": "1840825322935078912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020684029880877385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andrea_lot16995 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2020626092093297055",
+        "created_at": "2026-02-09T12:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T13:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020842813253120104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1840825322935078912",
+              "start": 0,
+              "username": "andrea_lot16995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020842813253120104",
+        "in_reply_to_user_id": "1840825322935078912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020684029880877385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andrea_lot16995 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840825322935078912",
+        "conversation_id": "2020626092093297055",
+        "created_at": "2026-02-09T02:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020684029880877385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909540060699279362",
+              "start": 0,
+              "username": "suzukii_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020684029880877385",
+        "in_reply_to_user_id": "1909540060699279362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020626092093297055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzukii_ovo 我喜歡這個"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "location": "🚪88 不线下",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 78,
+          "like_count": 666,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 99
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T18:45:43.000Z",
+        "description": "永遠16歲的冶疗魔法菜菜冶疗大家的煩惱🥬（现役神明新娘） /jojifuku/電波系/雌小鬼/戀痛/自私/善惡並存/焦虑/戒割戒o中/座標北京 上海 杭州 济南 混血外围（中文标准） 我的价格比较高呢 約過的都說滿意线下166/288門解锁线下 許願5200 ⌓‿⌓",
+        "id": "1840825322935078912",
+        "location": "🤍不要讓我一個人🖤",
+        "name": "治療系驱魔魔法少女菜菜",
+        "pinned_tweet_id": "2012460264445108684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020486457434263552/uV_8UX1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 32,
+          "like_count": 699,
+          "listed_count": 9,
+          "media_count": 343,
+          "tweet_count": 1141
+        },
+        "username": "andrea_lot16995",
+        "verified": false
+      }
+    ]
+  }
+}

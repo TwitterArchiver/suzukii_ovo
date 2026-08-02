@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067600855722033152"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2067600940958667202",
+    "created_at": "2026-06-18T13:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067600940958667202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YXigvlHXiC",
+          "end": 32,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2067600940958667202/video/1",
+          "media_key": "13_2067600855722033152",
+          "start": 9,
+          "url": "https://t.co/YXigvlHXiC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067600940958667202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "狗修金sama～ https://t.co/YXigvlHXiC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8930,
+        "height": 1280,
+        "media_key": "13_2067600855722033152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067600855722033152/img/eYR_5m7Vlg24VgBl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067600855722033152/vid/avc1/320x568/FxlK7EMG15mH--AV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067600855722033152/vid/avc1/480x852/QT3ahF4IvavYh1Px.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067600855722033152/vid/avc1/720x1280/OiNJqBL9H1Y4iwBc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067600855722033152/pl/0uzwi6jI7JqO9haO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067600855722033152"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "2067600940958667202",
+        "created_at": "2026-06-18T13:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067600940958667202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YXigvlHXiC",
+              "end": 32,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2067600940958667202/video/1",
+              "media_key": "13_2067600855722033152",
+              "start": 9,
+              "url": "https://t.co/YXigvlHXiC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067600940958667202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗修金sama～ https://t.co/YXigvlHXiC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位\n低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 99,
+          "like_count": 1477,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950551996085481472",
+        "3_1950551995942838272"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1950552189837135969",
+    "created_at": "2025-07-30T13:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T14:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950552189837135969"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 9,
+          "tag": "地雷系"
+        },
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "派手髪"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "kry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ykwIEEC7pJ",
+          "end": 54,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1950552189837135969/photo/1",
+          "media_key": "3_1950551996085481472",
+          "start": 31,
+          "url": "https://t.co/ykwIEEC7pJ"
+        },
+        {
+          "display_url": "pic.x.com/ykwIEEC7pJ",
+          "end": 54,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1950552189837135969/photo/1",
+          "media_key": "3_1950551995942838272",
+          "start": 31,
+          "url": "https://t.co/ykwIEEC7pJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950552189837135969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "kry这套很萌了\n#地雷系 #地雷系女子 #派手髪 #kry https://t.co/ykwIEEC7pJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950551996085481472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxHAtLqasAAqh4v.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950551995942838272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxHAtLIaIAAyflT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950551996085481472",
+            "3_1950551995942838272"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1950552189837135969",
+        "created_at": "2025-07-30T13:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950552189837135969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "地雷系"
+            },
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "派手髪"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "kry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykwIEEC7pJ",
+              "end": 54,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1950552189837135969/photo/1",
+              "media_key": "3_1950551996085481472",
+              "start": 31,
+              "url": "https://t.co/ykwIEEC7pJ"
+            },
+            {
+              "display_url": "pic.x.com/ykwIEEC7pJ",
+              "end": 54,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1950552189837135969/photo/1",
+              "media_key": "3_1950551995942838272",
+              "start": 31,
+              "url": "https://t.co/ykwIEEC7pJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950552189837135969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "kry这套很萌了\n#地雷系 #地雷系女子 #派手髪 #kry https://t.co/ykwIEEC7pJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "我只是个脆弱的小女孩。",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 25,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 37
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

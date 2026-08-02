@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982873078498496512",
+        "3_1982873078502703104"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1982873113441525860",
+    "created_at": "2025-10-27T18:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T19:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982873113441525860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vkBexOuRf7",
+          "end": 28,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1982873113441525860/photo/1",
+          "media_key": "3_1982873078498496512",
+          "start": 5,
+          "url": "https://t.co/vkBexOuRf7"
+        },
+        {
+          "display_url": "pic.x.com/vkBexOuRf7",
+          "end": 28,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1982873113441525860/photo/1",
+          "media_key": "3_1982873078502703104",
+          "start": 5,
+          "url": "https://t.co/vkBexOuRf7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982873113441525860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "乖巧宝宝 https://t.co/vkBexOuRf7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982873078498496512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4SUjyaWkAAZbss.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982873078502703104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4SUjybWwAAipWV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982873078498496512",
+            "3_1982873078502703104"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1982873113441525860",
+        "created_at": "2025-10-27T18:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982873113441525860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkBexOuRf7",
+              "end": 28,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1982873113441525860/photo/1",
+              "media_key": "3_1982873078498496512",
+              "start": 5,
+              "url": "https://t.co/vkBexOuRf7"
+            },
+            {
+              "display_url": "pic.x.com/vkBexOuRf7",
+              "end": 28,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1982873113441525860/photo/1",
+              "media_key": "3_1982873078502703104",
+              "start": 5,
+              "url": "https://t.co/vkBexOuRf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982873113441525860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乖巧宝宝 https://t.co/vkBexOuRf7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "1947558469709795478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 42,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 44
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

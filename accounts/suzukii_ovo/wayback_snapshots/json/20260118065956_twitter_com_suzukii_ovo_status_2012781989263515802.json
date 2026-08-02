@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012112139927031808",
+        "3_2012112139784196096",
+        "3_2012112139943903232"
+      ],
+      "media_source_tweet_id": [
+        "2012112157467349411",
+        "2012112157467349411",
+        "2012112157467349411"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2012781989263515802",
+    "created_at": "2026-01-18T06:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T07:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012781989263515802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874916231998033920",
+          "start": 3,
+          "username": "xiaoyu07qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MrGtHcKMtI",
+          "end": 81,
+          "expanded_url": "https://x.com/xiaoyu07qwq/status/2012112157467349411/photo/1",
+          "media_key": "3_2012112139927031808",
+          "start": 58,
+          "url": "https://t.co/MrGtHcKMtI"
+        },
+        {
+          "display_url": "pic.x.com/MrGtHcKMtI",
+          "end": 81,
+          "expanded_url": "https://x.com/xiaoyu07qwq/status/2012112157467349411/photo/1",
+          "media_key": "3_2012112139784196096",
+          "start": 58,
+          "url": "https://t.co/MrGtHcKMtI"
+        },
+        {
+          "display_url": "pic.x.com/MrGtHcKMtI",
+          "end": 81,
+          "expanded_url": "https://x.com/xiaoyu07qwq/status/2012112157467349411/photo/1",
+          "media_key": "3_2012112139943903232",
+          "start": 58,
+          "url": "https://t.co/MrGtHcKMtI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012781989263515802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012112157467349411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyu07qwq: 新🔝\n🚪52/88\n越多越爱你\n没有线下 清水\n过门发口令或者找我要赞赏码谢谢喵 https://t.co/MrGtHcKMtI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2012781989263515802].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2012781989263515802",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2012781989263515802"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012112139927031808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-x1VKSaEAAKyLc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012112139784196096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-x1VJwWkAAgJf6.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1414,
+        "media_key": "3_2012112139943903232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-x1VKWbgAARF2D.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012112139927031808",
+            "3_2012112139784196096",
+            "3_2012112139943903232"
+          ]
+        },
+        "author_id": "1874916231998033920",
+        "conversation_id": "2012112157467349411",
+        "created_at": "2026-01-16T10:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012112157467349411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MrGtHcKMtI",
+              "end": 64,
+              "expanded_url": "https://x.com/xiaoyu07qwq/status/2012112157467349411/photo/1",
+              "media_key": "3_2012112139927031808",
+              "start": 41,
+              "url": "https://t.co/MrGtHcKMtI"
+            },
+            {
+              "display_url": "pic.x.com/MrGtHcKMtI",
+              "end": 64,
+              "expanded_url": "https://x.com/xiaoyu07qwq/status/2012112157467349411/photo/1",
+              "media_key": "3_2012112139784196096",
+              "start": 41,
+              "url": "https://t.co/MrGtHcKMtI"
+            },
+            {
+              "display_url": "pic.x.com/MrGtHcKMtI",
+              "end": 64,
+              "expanded_url": "https://x.com/xiaoyu07qwq/status/2012112157467349411/photo/1",
+              "media_key": "3_2012112139943903232",
+              "start": 41,
+              "url": "https://t.co/MrGtHcKMtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012112157467349411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1497,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "新🔝\n🚪52/88\n越多越爱你\n没有线下 清水\n过门发口令或者找我要赞赏码谢谢喵 https://t.co/MrGtHcKMtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 64,
+          "like_count": 604,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 101
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T20:30:46.000Z",
+        "description": "07 互转十天清",
+        "id": "1874916231998033920",
+        "location": "0.1km",
+        "name": "ame",
+        "pinned_tweet_id": "2012112157467349411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003580221975592961/gVIGE7lp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 45,
+          "like_count": 314,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 145
+        },
+        "username": "xiaoyu07qwq",
+        "verified": false
+      }
+    ]
+  }
+}

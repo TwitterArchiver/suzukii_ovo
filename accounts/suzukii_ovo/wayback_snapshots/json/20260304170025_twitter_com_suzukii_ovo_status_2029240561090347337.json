@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029240551627997187"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029240561090347337",
+    "created_at": "2026-03-04T17:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T18:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029240561090347337"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 4,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 23,
+          "start": 11,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "自撮り"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wOL5pTuiMU",
+          "end": 52,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2029240561090347337/photo/1",
+          "media_key": "3_2029240551627997187",
+          "start": 29,
+          "url": "https://t.co/wOL5pTuiMU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029240561090347337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小僵尸\n#地雷系女子 #地雷系さんと繋がりたい #自撮り https://t.co/wOL5pTuiMU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2029240551627997187",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HClPh8OawAMBpEW.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029240551627997187"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029240561090347337",
+        "created_at": "2026-03-04T17:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T18:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029240561090347337"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 23,
+              "start": 11,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "自撮り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOL5pTuiMU",
+              "end": 52,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2029240561090347337/photo/1",
+              "media_key": "3_2029240551627997187",
+              "start": 29,
+              "url": "https://t.co/wOL5pTuiMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029240561090347337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小僵尸\n#地雷系女子 #地雷系さんと繋がりたい #自撮り https://t.co/wOL5pTuiMU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔 不接任何线下别来私信我",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 76,
+          "like_count": 709,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 105
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

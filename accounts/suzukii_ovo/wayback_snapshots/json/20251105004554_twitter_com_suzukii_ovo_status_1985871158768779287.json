@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "1985871158768779287",
+    "created_at": "2025-11-05T00:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T01:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985871158768779287"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "广州"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "深圳"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "佛山"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "门槛"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "线上"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "线下"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "金主"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "包养"
+        },
+        {
+          "end": 126,
+          "start": 121,
+          "tag": "一日女友"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "陪聊"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "陪玩"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "妈妈活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937160859262025729",
+          "start": 3,
+          "username": "sequeliscute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985871158768779287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985867389477753021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sequeliscute: 新置顶\n坐标 #广州 #深圳 #佛山\n88/188\n88线上聊天\n188解锁线下\n线下价格过门咨询\n语音验证免费，视频验证20\n如果没有想法，请不要打扰我\n#门槛 #门槛妹 #线上 #线下 #金主 #包养 #一日女友 #陪聊 #陪玩 #妈妈活…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985871158768779287].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985871158768779287",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985871158768779287"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985867376760668160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G48324rbQAAWOnL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985867376760668160"
+          ]
+        },
+        "author_id": "1937160859262025729",
+        "conversation_id": "1985867389477753021",
+        "created_at": "2025-11-05T00:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T01:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985867389477753021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "广州"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "深圳"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "佛山"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "门槛"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "线上"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "线下"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "金主"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "包养"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "一日女友"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "陪聊"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "陪玩"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "反差"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "妹妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAxcBqrTsv",
+              "end": 158,
+              "expanded_url": "https://x.com/sequeliscute/status/1985867389477753021/photo/1",
+              "media_key": "3_1985867376760668160",
+              "start": 135,
+              "url": "https://t.co/sAxcBqrTsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985867389477753021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶\n坐标 #广州 #深圳 #佛山\n88/188\n88线上聊天\n188解锁线下\n线下价格过门咨询\n语音验证免费，视频验证20\n如果没有想法，请不要打扰我\n#门槛 #门槛妹 #线上 #线下 #金主 #包养 #一日女友 #陪聊 #陪玩 #妈妈活 #爸爸活 #反差 #妹妹 https://t.co/sAxcBqrTsv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "1958372420840284628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 41,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 36
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T14:48:56.000Z",
+        "description": "我告诉你我根本就是没有错｜私信只回口令",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/seuqelisctue13…",
+                "end": 23,
+                "expanded_url": "https://t.me/seuqelisctue1314",
+                "start": 0,
+                "url": "https://t.co/E5zbdp9xxX"
+              }
+            ]
+          }
+        },
+        "id": "1937160859262025729",
+        "location": "🚪88/188",
+        "name": "sequel",
+        "pinned_tweet_id": "1985867389477753021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981975875072462848/7Ritsf9-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 20,
+          "like_count": 889,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/E5zbdp9xxX",
+        "username": "sequeliscute",
+        "verified": false
+      }
+    ]
+  }
+}

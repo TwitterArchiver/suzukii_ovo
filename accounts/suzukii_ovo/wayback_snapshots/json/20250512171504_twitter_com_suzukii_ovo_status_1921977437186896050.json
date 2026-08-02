@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921977397286424576",
+        "3_1921977397265448960"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1921977437186896050",
+    "created_at": "2025-05-12T17:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T18:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921977437186896050"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "哎躺平",
+          "probability": 0.4082,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 4,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 23,
+          "start": 11,
+          "tag": "地雷系女子と繋がりたい"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "地雷系"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "派手髪"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KFVQwuJQ52",
+          "end": 57,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1921977437186896050/photo/1",
+          "media_key": "3_1921977397286424576",
+          "start": 34,
+          "url": "https://t.co/KFVQwuJQ52"
+        },
+        {
+          "display_url": "pic.x.com/KFVQwuJQ52",
+          "end": 57,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1921977437186896050/photo/1",
+          "media_key": "3_1921977397265448960",
+          "start": 34,
+          "url": "https://t.co/KFVQwuJQ52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921977437186896050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎躺平\n#地雷系女子 #地雷系女子と繋がりたい #地雷系 #派手髪 https://t.co/KFVQwuJQ52"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921977397286424576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqw8Qn-WUAAkpEM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921977397265448960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqw8Qn5WQAAf6jM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921977397286424576",
+            "3_1921977397265448960"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1921977437186896050",
+        "created_at": "2025-05-12T17:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T18:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921977437186896050"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "哎躺平",
+              "probability": 0.4082,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 23,
+              "start": 11,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "地雷系"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "派手髪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFVQwuJQ52",
+              "end": 57,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1921977437186896050/photo/1",
+              "media_key": "3_1921977397286424576",
+              "start": 34,
+              "url": "https://t.co/KFVQwuJQ52"
+            },
+            {
+              "display_url": "pic.x.com/KFVQwuJQ52",
+              "end": 57,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1921977437186896050/photo/1",
+              "media_key": "3_1921977397265448960",
+              "start": 34,
+              "url": "https://t.co/KFVQwuJQ52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921977437186896050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎躺平\n#地雷系女子 #地雷系女子と繋がりたい #地雷系 #派手髪 https://t.co/KFVQwuJQ52"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "68好友位 88朋友圈 其余不接无福利 萌妹子和我互fo",
+        "id": "1909540060699279362",
+        "name": "牙牙牙牙",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921508426666180608/IsUQOSok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 73,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

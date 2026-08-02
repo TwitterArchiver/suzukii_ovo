@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "1943314879382982898",
+    "created_at": "2025-07-10T16:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T17:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943351945626030101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1341766476609462274",
+          "start": 0,
+          "username": "mentallychels"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943351945626030101",
+    "in_reply_to_user_id": "1341766476609462274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943314879382982898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mentallychels 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12901,
+        "height": 960,
+        "media_key": "13_1943314137511268353",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943314137511268353/img/x4Dwy3penbqfsjHW.jpg",
+        "public_metrics": {
+          "view_count": 268
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943314137511268353/vid/avc1/320x426/y30xh8oh3Q551gUg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943314137511268353/vid/avc1/480x640/jBeIeWIWDvb6r2J4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943314137511268353/vid/avc1/720x960/_dN_4YP6ZI11LnwB.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943314137511268353/pl/EnvBO7i4dYQ9RTae.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "1943314879382982898",
+        "created_at": "2025-07-10T16:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T17:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943351945626030101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1341766476609462274",
+              "start": 0,
+              "username": "mentallychels"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943351945626030101",
+        "in_reply_to_user_id": "1341766476609462274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943314879382982898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentallychels 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943314137511268353"
+          ]
+        },
+        "author_id": "1341766476609462274",
+        "conversation_id": "1943314879382982898",
+        "created_at": "2025-07-10T14:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T15:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943314879382982898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5zbUwgs0I",
+              "end": 31,
+              "expanded_url": "https://x.com/mentallychels/status/1943314879382982898/video/1",
+              "media_key": "13_1943314137511268353",
+              "start": 8,
+              "url": "https://t.co/O5zbUwgs0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943314879382982898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 874,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小黑貓跑過來了 https://t.co/O5zbUwgs0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "我只是个脆弱的小女孩。",
+        "id": "1909540060699279362",
+        "name": "AAA-豆芽种植批发牙齿哥",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941607774821154818/onsSD976_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 24,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 29
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T15:24:07.000Z",
+        "description": "我是壑｜很久沒有更新就應該是死掉了  🚪200",
+        "id": "1341766476609462274",
+        "name": "mentallychels",
+        "pinned_tweet_id": "1465787319303159808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341766993821671426/K8xmFlJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12016,
+          "following_count": 143,
+          "like_count": 752,
+          "listed_count": 20,
+          "media_count": 215,
+          "tweet_count": 820
+        },
+        "username": "mentallychels",
+        "verified": false
+      }
+    ]
+  }
+}

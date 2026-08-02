@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945101237109882880"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1945101250598461870",
+    "created_at": "2025-07-15T12:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T13:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945101250598461870"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 6,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 19,
+          "start": 13,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "kry"
+        },
+        {
+          "end": 37,
+          "start": 25,
+          "tag": "地雷系さんと繋がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y6sKhFiI2e",
+          "end": 61,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1945101250598461870/photo/1",
+          "media_key": "3_1945101237109882880",
+          "start": 38,
+          "url": "https://t.co/y6sKhFiI2e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945101250598461870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "俺变白毛了\n#自撮り界隈 #地雷系女子 #kry #地雷系さんと繋がりたい https://t.co/y6sKhFiI2e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1945101237109882880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv5jRQIbgAACX49.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945101237109882880"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1945101250598461870",
+        "created_at": "2025-07-15T12:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T13:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945101250598461870"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "kry"
+            },
+            {
+              "end": 37,
+              "start": 25,
+              "tag": "地雷系さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6sKhFiI2e",
+              "end": 61,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1945101250598461870/photo/1",
+              "media_key": "3_1945101237109882880",
+              "start": 38,
+              "url": "https://t.co/y6sKhFiI2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945101250598461870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俺变白毛了\n#自撮り界隈 #地雷系女子 #kry #地雷系さんと繋がりたい https://t.co/y6sKhFiI2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "我只是个脆弱的小女孩。",
+        "id": "1909540060699279362",
+        "name": "AAA-豆芽种植批发牙齿哥",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941607774821154818/onsSD976_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 23,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 31
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2012782058427572226",
+    "created_at": "2026-01-18T07:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T08:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012782058427572226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003419355980468224",
+          "start": 3,
+          "username": "sakurayukix8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012782058427572226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003664251110719564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakurayukix8: 🐾 ₊⁺★ ⑉ 🎼₊⁺ ♡̶₊⁺⑉☆₊⁺\n你好我是小雪^_^ 前世几kfo\n小女孩来和我交朋友♡\n 生病治疗中  165 46kg\n🚪158/520/1314/1888/…\n接爸爸活/定制/举牌/陪玩🪧\n⬆️支持vx和口令\n钱可以治好我的病…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2012782058427572226].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2012782058427572226",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2012782058427572226"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2005,
+        "media_key": "3_2003664239005966336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G85yAm8aoAAj8uT.jpg",
+        "width": 1969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003664239005966336"
+          ]
+        },
+        "author_id": "2003419355980468224",
+        "conversation_id": "2003664251110719564",
+        "created_at": "2025-12-24T03:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T04:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003664251110719564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8EUup1Lzc",
+              "end": 163,
+              "expanded_url": "https://x.com/sakurayukix8/status/2003664251110719564/photo/1",
+              "media_key": "3_2003664239005966336",
+              "start": 140,
+              "url": "https://t.co/i8EUup1Lzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003664251110719564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10468,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "🐾 ₊⁺★ ⑉ 🎼₊⁺ ♡̶₊⁺⑉☆₊⁺\n你好我是小雪^_^ 前世几kfo\n小女孩来和我交朋友♡\n 生病治疗中  165 46kg\n🚪158/520/1314/1888/…\n接爸爸活/定制/举牌/陪玩🪧\n⬆️支持vx和口令\n钱可以治好我的病\n☆𓂂˙✞🐾꙳愿爱与你同在✞🐾 ₊⁺★ https://t.co/i8EUup1Lzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 64,
+          "like_count": 604,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 102
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T10:56:17.000Z",
+        "description": "@Sakurayukii77i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "Sakurayukii77i"
+              }
+            ]
+          }
+        },
+        "id": "2003419355980468224",
+        "name": "小雪",
+        "pinned_tweet_id": "2003664251110719564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003419469008551936/YOYjEMjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 6,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 112
+        },
+        "username": "sakurayukix8",
+        "verified": false
+      }
+    ]
+  }
+}

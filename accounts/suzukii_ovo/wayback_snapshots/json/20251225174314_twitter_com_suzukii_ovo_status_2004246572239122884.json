@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004246547131944960"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2004246572239122884",
+    "created_at": "2025-12-25T17:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T18:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004246572239122884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X0adfmtnW0",
+          "end": 30,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2004246572239122884/photo/1",
+          "media_key": "3_2004246547131944960",
+          "start": 7,
+          "url": "https://t.co/X0adfmtnW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004246572239122884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "圣诞节快乐哟 https://t.co/X0adfmtnW0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004246547131944960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9CDnZwaUAAX3BJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004246547131944960"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "2004246572239122884",
+        "created_at": "2025-12-25T17:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T18:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004246572239122884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0adfmtnW0",
+              "end": 30,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2004246572239122884/photo/1",
+              "media_key": "3_2004246547131944960",
+              "start": 7,
+              "url": "https://t.co/X0adfmtnW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004246572239122884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "圣诞节快乐哟 https://t.co/X0adfmtnW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "location": "🚪88 不线下",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2003852422326984744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 54,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 69
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

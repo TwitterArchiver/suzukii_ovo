@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947558439150047232",
+        "3_1947558439120695296"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1947558469709795478",
+    "created_at": "2025-07-22T07:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T08:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947558469709795478"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 9,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 35,
+          "start": 23,
+          "tag": "地雷系女子と繋がりたい"
+        },
+        {
+          "end": 50,
+          "start": 36,
+          "tag": "自撮り界隈さんと繋がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MUSlZP0usP",
+          "end": 74,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1947558469709795478/photo/1",
+          "media_key": "3_1947558439150047232",
+          "start": 51,
+          "url": "https://t.co/MUSlZP0usP"
+        },
+        {
+          "display_url": "pic.x.com/MUSlZP0usP",
+          "end": 74,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1947558469709795478/photo/1",
+          "media_key": "3_1947558439120695296",
+          "start": 51,
+          "url": "https://t.co/MUSlZP0usP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947558469709795478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两个白毛吧就是说\n#地雷系女子 #自撮り界隈 #地雷系女子と繋がりたい #自撮り界隈さんと繋がりたい https://t.co/MUSlZP0usP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947558439150047232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwceFPDaUAAIw4D.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1947558439120695296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwceFO8acAA73II.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947558439150047232",
+            "3_1947558439120695296"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1947558469709795478",
+        "created_at": "2025-07-22T07:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T08:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947558469709795478"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 35,
+              "start": 23,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 50,
+              "start": 36,
+              "tag": "自撮り界隈さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUSlZP0usP",
+              "end": 74,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1947558469709795478/photo/1",
+              "media_key": "3_1947558439150047232",
+              "start": 51,
+              "url": "https://t.co/MUSlZP0usP"
+            },
+            {
+              "display_url": "pic.x.com/MUSlZP0usP",
+              "end": 74,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1947558469709795478/photo/1",
+              "media_key": "3_1947558439120695296",
+              "start": 51,
+              "url": "https://t.co/MUSlZP0usP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947558469709795478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个白毛吧就是说\n#地雷系女子 #自撮り界隈 #地雷系女子と繋がりたい #自撮り界隈さんと繋がりたい https://t.co/MUSlZP0usP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "我只是个脆弱的小女孩。",
+        "id": "1909540060699279362",
+        "name": "AAA-豆芽种植批发牙齿哥",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941607774821154818/onsSD976_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 24,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 33
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

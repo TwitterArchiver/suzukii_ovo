@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2049889406283374834",
+    "created_at": "2026-04-30T18:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T19:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049923044039385234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1777636769187676160",
+          "start": 0,
+          "username": "Travisyangdrum"
+        },
+        {
+          "end": 27,
+          "id": "1753480657035300867",
+          "start": 16,
+          "username": "pake661809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049923044039385234",
+    "in_reply_to_user_id": "1777636769187676160",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049893428331462991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Travisyangdrum @pake661809 bro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2049889406283374834",
+        "created_at": "2026-04-30T18:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049923044039385234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1777636769187676160",
+              "start": 0,
+              "username": "Travisyangdrum"
+            },
+            {
+              "end": 27,
+              "id": "1753480657035300867",
+              "start": 16,
+              "username": "pake661809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049923044039385234",
+        "in_reply_to_user_id": "1777636769187676160",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049893428331462991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Travisyangdrum @pake661809 bro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777636769187676160",
+        "conversation_id": "2049889406283374834",
+        "created_at": "2026-04-30T16:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049893428331462991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753480657035300867",
+              "start": 0,
+              "username": "pake661809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049893428331462991",
+        "in_reply_to_user_id": "1753480657035300867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049889406283374834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pake661809 是的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔 不接任何线下别来私信我",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 115,
+          "like_count": 1220,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 174
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T09:57:00.000Z",
+        "description": "",
+        "id": "1777636769187676160",
+        "name": "Tisav 5000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920384370797363200/qjap6c_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 80,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 33
+        },
+        "username": "Travisyangdrum",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T18:09:30.000Z",
+        "description": "我本位主义 INTP ♒️ 无聊的时候会给自己找饭吃 纯血二次元老资历大手子宅女^ ^｜switch｜发自己想发的｜不接线下不聊骚私信随缘回｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akauya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akauya",
+                "start": 0,
+                "url": "https://t.co/lLjNrK6uOt"
+              }
+            ]
+          }
+        },
+        "id": "1753480657035300867",
+        "location": "💕",
+        "name": "akauya（狂傲版",
+        "pinned_tweet_id": "2047592304572239892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047959039099973632/HPJiZ59D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15068,
+          "following_count": 21,
+          "like_count": 816,
+          "listed_count": 14,
+          "media_count": 620,
+          "tweet_count": 2976
+        },
+        "url": "https://t.co/lLjNrK6uOt",
+        "username": "pake661809",
+        "verified": false
+      }
+    ]
+  }
+}

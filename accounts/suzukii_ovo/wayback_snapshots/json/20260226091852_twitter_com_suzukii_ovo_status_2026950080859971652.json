@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      }
+    ],
+    "conversation_id": "2026950080859971652",
+    "created_at": "2026-02-26T09:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026950080859971652"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "犬调"
+        },
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "人形犬"
+        },
+        {
+          "end": 100,
+          "start": 95,
+          "tag": "小狗日记"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "k9"
+        },
+        {
+          "end": 115,
+          "start": 105,
+          "tag": "bitchsuit"
+        },
+        {
+          "end": 125,
+          "start": 116,
+          "tag": "humanpet"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "ヒトイヌ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1681842432269512707",
+          "start": 3,
+          "username": "TarsMark2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026950080859971652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026643167295275196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TarsMark2: 泡温泉还有小狗摸摸吗\nWhen you in hot spring, puppy will come and play with you.\n\n#犬调 #人形犬 #小狗日记 #k9 #bitchsuit #humanpet #ヒトイヌ\n🐩 @18cm…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2026950080859971652].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2026950080859971652",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2026950080859971652"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19440,
+        "height": 720,
+        "media_key": "7_2026643072352956416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026643072352956416/pu/img/ydRMvY_8UL11mUtE.jpg",
+        "public_metrics": {
+          "view_count": 4926
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026643072352956416/pu/vid/avc1/360x270/oaZBreve1xk0EPVj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026643072352956416/pu/vid/avc1/480x360/sCfuVll0P06X6cG-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026643072352956416/pu/vid/avc1/960x720/C2VEQXi3PVY_YnV7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026643072352956416/pu/pl/h0eqIf2A2urd8USL.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026643072352956416"
+          ]
+        },
+        "author_id": "1681842432269512707",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2026643167295275196",
+        "created_at": "2026-02-25T12:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026643167295275196"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "犬调"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "人形犬"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "k9"
+            },
+            {
+              "end": 100,
+              "start": 90,
+              "tag": "bitchsuit"
+            },
+            {
+              "end": 110,
+              "start": 101,
+              "tag": "humanpet"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "ヒトイヌ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 133,
+              "id": "1909433877166493696",
+              "start": 119,
+              "username": "18cm_cucumber"
+            },
+            {
+              "end": 146,
+              "id": "1681842432269512707",
+              "start": 136,
+              "username": "TarsMark2"
+            },
+            {
+              "end": 187,
+              "id": "1688439420",
+              "start": 171,
+              "username": "BlackMarieChina"
+            },
+            {
+              "end": 206,
+              "id": "1665217316538425345",
+              "start": 194,
+              "username": "LambStudio_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A3sPURSOmB",
+              "end": 230,
+              "expanded_url": "https://x.com/TarsMark2/status/2026643167295275196/video/1",
+              "media_key": "7_2026643072352956416",
+              "start": 207,
+              "url": "https://t.co/A3sPURSOmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026643167295275196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 11865,
+          "like_count": 587,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "泡温泉还有小狗摸摸吗\nWhen you in hot spring, puppy will come and play with you.\n\n#犬调 #人形犬 #小狗日记 #k9 #bitchsuit #humanpet #ヒトイヌ\n🐩 @18cm_cucumber\n📷 @TarsMark2\nBitchsuit &amp; Harness @BlackMarieChina \nMask @LambStudio_ https://t.co/A3sPURSOmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 74,
+          "like_count": 669,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 106
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T01:44:28.000Z",
+        "description": "本账号NSFW | 主营：露出、犬化、物化、全包 | 会一点绳子、摄影 | 欢迎找我拍瑟图 | 表号 @brandon_shia | 刺猬老婆 @Harper_Ran86 绳推 @hzshibari | 宠物小狗 @kurikawayuyu @18cm_cucumber",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "brandon_shia"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Harper_Ran86"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "hzshibari"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "kurikawayuyu"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "18cm_cucumber"
+              }
+            ]
+          }
+        },
+        "id": "1681842432269512707",
+        "location": "距您100m以内",
+        "name": "梓楚 Branka",
+        "pinned_tweet_id": "1992234190780444943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971465515437797376/Dq-rxCs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28739,
+          "following_count": 1714,
+          "like_count": 124095,
+          "listed_count": 114,
+          "media_count": 389,
+          "tweet_count": 7615
+        },
+        "username": "TarsMark2",
+        "verified": false
+      }
+    ]
+  }
+}

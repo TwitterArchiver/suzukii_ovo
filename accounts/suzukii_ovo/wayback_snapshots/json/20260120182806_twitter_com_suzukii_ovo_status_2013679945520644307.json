@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2013615020635234340",
+    "created_at": "2026-01-20T18:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T19:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013679945520644307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882486190575878144",
+          "start": 0,
+          "username": "kuai690059"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013679945520644307",
+    "in_reply_to_user_id": "1882486190575878144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013674778708848876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuai690059 我爱你呗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2013615020635234340",
+        "created_at": "2026-01-20T18:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T19:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013679945520644307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882486190575878144",
+              "start": 0,
+              "username": "kuai690059"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013679945520644307",
+        "in_reply_to_user_id": "1882486190575878144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013674778708848876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuai690059 我爱你呗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882486190575878144",
+        "conversation_id": "2013615020635234340",
+        "created_at": "2026-01-20T18:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T19:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013674778708848876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909540060699279362",
+              "start": 0,
+              "username": "suzukii_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013674778708848876",
+        "in_reply_to_user_id": "1909540060699279362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013615020635234340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzukii_ovo 好美呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 67,
+          "like_count": 616,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 111
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T17:51:54.000Z",
+        "description": "纯绿色植物 ｜🚪88｜120 ｜220只回zfb口令 验证20 没有义务闲聊滚",
+        "id": "1882486190575878144",
+        "location": "深圳",
+        "name": "Absinthe",
+        "pinned_tweet_id": "2006798045682479391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886020114396651520/riKTNExf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 31,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 95
+        },
+        "username": "kuai690059",
+        "verified": false
+      }
+    ]
+  }
+}

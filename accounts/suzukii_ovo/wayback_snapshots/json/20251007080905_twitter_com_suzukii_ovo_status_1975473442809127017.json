@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975473398261424130",
+        "3_1975473398265618434",
+        "3_1975473398273974272"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1975473442809127017",
+    "created_at": "2025-10-07T08:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T09:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975473442809127017"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "地雷系"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qb4CNw8hAm",
+          "end": 45,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1975473442809127017/photo/1",
+          "media_key": "3_1975473398261424130",
+          "start": 22,
+          "url": "https://t.co/Qb4CNw8hAm"
+        },
+        {
+          "display_url": "pic.x.com/Qb4CNw8hAm",
+          "end": 45,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1975473442809127017/photo/1",
+          "media_key": "3_1975473398265618434",
+          "start": 22,
+          "url": "https://t.co/Qb4CNw8hAm"
+        },
+        {
+          "display_url": "pic.x.com/Qb4CNw8hAm",
+          "end": 45,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1975473442809127017/photo/1",
+          "media_key": "3_1975473398273974272",
+          "start": 22,
+          "url": "https://t.co/Qb4CNw8hAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975473442809127017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我终于拍出可以看的拍立得了qwq\n#地雷系 https://t.co/Qb4CNw8hAm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975473398261424130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2pKltabIAI4rYE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975473398265618434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2pKltbbIAI4iS_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975473398273974272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2pKltdaoAAHxFB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975473398261424130",
+            "3_1975473398265618434",
+            "3_1975473398273974272"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1975473442809127017",
+        "created_at": "2025-10-07T08:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T09:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975473442809127017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qb4CNw8hAm",
+              "end": 45,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1975473442809127017/photo/1",
+              "media_key": "3_1975473398261424130",
+              "start": 22,
+              "url": "https://t.co/Qb4CNw8hAm"
+            },
+            {
+              "display_url": "pic.x.com/Qb4CNw8hAm",
+              "end": 45,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1975473442809127017/photo/1",
+              "media_key": "3_1975473398265618434",
+              "start": 22,
+              "url": "https://t.co/Qb4CNw8hAm"
+            },
+            {
+              "display_url": "pic.x.com/Qb4CNw8hAm",
+              "end": 45,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1975473442809127017/photo/1",
+              "media_key": "3_1975473398273974272",
+              "start": 22,
+              "url": "https://t.co/Qb4CNw8hAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975473442809127017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我终于拍出可以看的拍立得了qwq\n#地雷系 https://t.co/Qb4CNw8hAm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "1947558469709795478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 36,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 33
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

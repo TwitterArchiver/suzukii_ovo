@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006410948983271427"
+      ],
+      "media_source_tweet_id": [
+        "2006410958437236770"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2013065594111918375",
+    "created_at": "2026-01-19T01:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T02:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013065594111918375"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "地雷女"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "地雷妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1860227777141575680",
+          "start": 3,
+          "username": "eeeee110310"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UYlm1gqH5Q",
+          "end": 69,
+          "expanded_url": "https://x.com/eeeee110310/status/2006410958437236770/photo/1",
+          "media_key": "3_2006410948983271427",
+          "start": 46,
+          "url": "https://t.co/UYlm1gqH5Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013065594111918375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006410958437236770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @eeeee110310: 2026让我圈点 #门槛哥 #门槛妹 #地雷女 #地雷妹 https://t.co/UYlm1gqH5Q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2013065594111918375].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2013065594111918375",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2013065594111918375"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006410948983271427",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9g0IK-aMAMwzwf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006410948983271427"
+          ]
+        },
+        "author_id": "1860227777141575680",
+        "conversation_id": "2006410958437236770",
+        "created_at": "2025-12-31T17:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T18:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006410958437236770"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "地雷女"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "地雷妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYlm1gqH5Q",
+              "end": 52,
+              "expanded_url": "https://x.com/eeeee110310/status/2006410958437236770/photo/1",
+              "media_key": "3_2006410948983271427",
+              "start": 29,
+              "url": "https://t.co/UYlm1gqH5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006410958437236770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2419,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "2026让我圈点 #门槛哥 #门槛妹 #地雷女 #地雷妹 https://t.co/UYlm1gqH5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 68,
+          "like_count": 614,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 108
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T07:44:07.000Z",
+        "description": "双向/焦虑。有时候会突然发很多东西话很多。私只回口令红包or置顶赞赏码，线下只接纯绿388🚪坐标30，一个问题15",
+        "id": "1860227777141575680",
+        "location": "88（好友位）/188/520/888/1314",
+        "name": "momo",
+        "pinned_tweet_id": "2006410958437236770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929094480311070720/XUgV3iYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 199,
+          "like_count": 3338,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 180
+        },
+        "username": "eeeee110310",
+        "verified": false
+      }
+    ]
+  }
+}

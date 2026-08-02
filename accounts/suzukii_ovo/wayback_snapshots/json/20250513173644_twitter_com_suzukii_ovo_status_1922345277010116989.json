@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922345244626190338",
+        "3_1922345244626206720",
+        "3_1922345244571664387"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1922345277010116989",
+    "created_at": "2025-05-13T17:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T18:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922345277010116989"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 3,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 14,
+          "start": 10,
+          "tag": "地雷系"
+        },
+        {
+          "end": 29,
+          "start": 15,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "自撮り"
+        },
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "派手髮"
+        },
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "量産型"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M1yFPrHGr4",
+          "end": 68,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1922345277010116989/photo/1",
+          "media_key": "3_1922345244626190338",
+          "start": 45,
+          "url": "https://t.co/M1yFPrHGr4"
+        },
+        {
+          "display_url": "pic.x.com/M1yFPrHGr4",
+          "end": 68,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1922345277010116989/photo/1",
+          "media_key": "3_1922345244626206720",
+          "start": 45,
+          "url": "https://t.co/M1yFPrHGr4"
+        },
+        {
+          "display_url": "pic.x.com/M1yFPrHGr4",
+          "end": 68,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1922345277010116989/photo/1",
+          "media_key": "3_1922345244571664387",
+          "start": 45,
+          "url": "https://t.co/M1yFPrHGr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922345277010116989",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "💜🩷\n#地雷系女子 #地雷系 #自撮り界隈さんと繋がりたい #自撮り #派手髮 #量産型 https://t.co/M1yFPrHGr4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922345244626190338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq2K0KGbAAIOHar.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1922345244626206720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq2K0KGbQAA6Fix.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1922345244571664387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq2K0J5bAAM-iHN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922345244626190338",
+            "3_1922345244626206720",
+            "3_1922345244571664387"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1922345277010116989",
+        "created_at": "2025-05-13T17:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T18:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922345277010116989"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 3,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "地雷系"
+            },
+            {
+              "end": 29,
+              "start": 15,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "自撮り"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "派手髮"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "量産型"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1yFPrHGr4",
+              "end": 68,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1922345277010116989/photo/1",
+              "media_key": "3_1922345244626190338",
+              "start": 45,
+              "url": "https://t.co/M1yFPrHGr4"
+            },
+            {
+              "display_url": "pic.x.com/M1yFPrHGr4",
+              "end": 68,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1922345277010116989/photo/1",
+              "media_key": "3_1922345244626206720",
+              "start": 45,
+              "url": "https://t.co/M1yFPrHGr4"
+            },
+            {
+              "display_url": "pic.x.com/M1yFPrHGr4",
+              "end": 68,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1922345277010116989/photo/1",
+              "media_key": "3_1922345244571664387",
+              "start": 45,
+              "url": "https://t.co/M1yFPrHGr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922345277010116989",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💜🩷\n#地雷系女子 #地雷系 #自撮り界隈さんと繋がりたい #自撮り #派手髮 #量産型 https://t.co/M1yFPrHGr4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "68好友位 88朋友圈 其余不接无福利 萌妹子和我互fo",
+        "id": "1909540060699279362",
+        "name": "牙牙牙牙",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921508426666180608/IsUQOSok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 73,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958372398081994752",
+        "3_1958372398094536704",
+        "3_1958372398098796544"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1958372420840284628",
+    "created_at": "2025-08-21T03:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T04:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958372420840284628"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "自撮り"
+        },
+        {
+          "end": 11,
+          "start": 5,
+          "tag": "地雷系女子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kpx3GsNnJp",
+          "end": 35,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1958372420840284628/photo/1",
+          "media_key": "3_1958372398081994752",
+          "start": 12,
+          "url": "https://t.co/kpx3GsNnJp"
+        },
+        {
+          "display_url": "pic.x.com/kpx3GsNnJp",
+          "end": 35,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1958372420840284628/photo/1",
+          "media_key": "3_1958372398094536704",
+          "start": 12,
+          "url": "https://t.co/kpx3GsNnJp"
+        },
+        {
+          "display_url": "pic.x.com/kpx3GsNnJp",
+          "end": 35,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1958372420840284628/photo/1",
+          "media_key": "3_1958372398098796544",
+          "start": 12,
+          "url": "https://t.co/kpx3GsNnJp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958372420840284628",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り #地雷系女子 https://t.co/kpx3GsNnJp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958372398081994752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy2JUfWbcAAf4N5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958372398094536704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy2JUfZa0AA2uel.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958372398098796544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy2JUfab0AAhFx7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958372398081994752",
+            "3_1958372398094536704",
+            "3_1958372398098796544"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1958372420840284628",
+        "created_at": "2025-08-21T03:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T04:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958372420840284628"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "自撮り"
+            },
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kpx3GsNnJp",
+              "end": 35,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1958372420840284628/photo/1",
+              "media_key": "3_1958372398081994752",
+              "start": 12,
+              "url": "https://t.co/kpx3GsNnJp"
+            },
+            {
+              "display_url": "pic.x.com/kpx3GsNnJp",
+              "end": 35,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1958372420840284628/photo/1",
+              "media_key": "3_1958372398094536704",
+              "start": 12,
+              "url": "https://t.co/kpx3GsNnJp"
+            },
+            {
+              "display_url": "pic.x.com/kpx3GsNnJp",
+              "end": 35,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1958372420840284628/photo/1",
+              "media_key": "3_1958372398098796544",
+              "start": 12,
+              "url": "https://t.co/kpx3GsNnJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958372420840284628",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り #地雷系女子 https://t.co/kpx3GsNnJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "1947558469709795478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 31,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 27
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

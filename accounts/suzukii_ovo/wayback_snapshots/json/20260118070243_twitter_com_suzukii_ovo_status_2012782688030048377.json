@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000984815403982849",
+        "3_2000984815399772160"
+      ],
+      "media_source_tweet_id": [
+        "2000984821557047755",
+        "2000984821557047755"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2012782688030048377",
+    "created_at": "2026-01-18T07:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T08:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012782688030048377"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 103,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 114,
+          "start": 110,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1967887882384965632",
+          "start": 3,
+          "username": "111q_a54867"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6sFHHvB2rM",
+          "end": 138,
+          "expanded_url": "https://x.com/111q_a54867/status/2000984821557047755/photo/1",
+          "media_key": "3_2000984815403982849",
+          "start": 115,
+          "url": "https://t.co/6sFHHvB2rM"
+        },
+        {
+          "display_url": "pic.x.com/6sFHHvB2rM",
+          "end": 138,
+          "expanded_url": "https://x.com/111q_a54867/status/2000984821557047755/photo/1",
+          "media_key": "3_2000984815399772160",
+          "start": 115,
+          "url": "https://t.co/6sFHHvB2rM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012782688030048377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000984821557047755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @111q_a54867: 🔝我是伊藤签/小签\n🚪99/200/520，私信收口令或者赞赏码，坐标杭州江浙沪，求转发我想收到门槛。也想和同风格类型或是有意思的人交朋友！喜欢我就给我钱吧让我过得好一点！#地雷系女子 #门槛妹 https://t.co/6sFHHvB2rM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2012782688030048377].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2012782688030048377",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2012782688030048377"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000984815403982849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8TtFoMa4AEJXgc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000984815399772160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8TtFoLaoAAUWes.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000984815403982849",
+            "3_2000984815399772160"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2000984821557047755",
+        "created_at": "2025-12-16T17:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T18:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000984821557047755"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 86,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6sFHHvB2rM",
+              "end": 121,
+              "expanded_url": "https://x.com/111q_a54867/status/2000984821557047755/photo/1",
+              "media_key": "3_2000984815403982849",
+              "start": 98,
+              "url": "https://t.co/6sFHHvB2rM"
+            },
+            {
+              "display_url": "pic.x.com/6sFHHvB2rM",
+              "end": 121,
+              "expanded_url": "https://x.com/111q_a54867/status/2000984821557047755/photo/1",
+              "media_key": "3_2000984815399772160",
+              "start": 98,
+              "url": "https://t.co/6sFHHvB2rM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000984821557047755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19087,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "🔝我是伊藤签/小签\n🚪99/200/520，私信收口令或者赞赏码，坐标杭州江浙沪，求转发我想收到门槛。也想和同风格类型或是有意思的人交朋友！喜欢我就给我钱吧让我过得好一点！#地雷系女子 #门槛妹 https://t.co/6sFHHvB2rM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 67,
+          "like_count": 604,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 103
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoenXvj"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "我想幸福一点",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 1076,
+          "like_count": 4615,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/rc5JoenXvj",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

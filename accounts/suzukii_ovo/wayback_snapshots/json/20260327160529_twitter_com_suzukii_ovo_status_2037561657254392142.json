@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037561644193357825"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037561657254392142",
+    "created_at": "2026-03-27T16:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T17:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037561657254392142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KoQSHobo9x",
+          "end": 51,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2037561657254392142/photo/1",
+          "media_key": "3_2037561644193357825",
+          "start": 28,
+          "url": "https://t.co/KoQSHobo9x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037561657254392142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说真的他脸上那么多痘痘 会让我觉得他几把上也全是痘痘… https://t.co/KoQSHobo9x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_2037561644193357825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbfhRobIAEOOzi.jpg",
+        "width": 855
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037561644193357825"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037561657254392142",
+        "created_at": "2026-03-27T16:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037561657254392142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KoQSHobo9x",
+              "end": 51,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2037561657254392142/photo/1",
+              "media_key": "3_2037561644193357825",
+              "start": 28,
+              "url": "https://t.co/KoQSHobo9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037561657254392142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说真的他脸上那么多痘痘 会让我觉得他几把上也全是痘痘… https://t.co/KoQSHobo9x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔 不接任何线下别来私信我",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 93,
+          "like_count": 945,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 146
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

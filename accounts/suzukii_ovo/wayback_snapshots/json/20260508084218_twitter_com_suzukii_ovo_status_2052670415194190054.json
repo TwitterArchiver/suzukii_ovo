@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050235103222312960"
+      ],
+      "media_source_tweet_id": [
+        "2050235446651957260"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2052670415194190054",
+    "created_at": "2026-05-08T08:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052670415194190054"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "女高"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "日常"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "露出"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "萝莉"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "忧郁"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2049455211618689024",
+          "start": 3,
+          "username": "Ghjhccvcr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qRtMWiutnq",
+          "end": 71,
+          "expanded_url": "https://x.com/Ghjhccvcr/status/2050235446651957260/video/1",
+          "media_key": "13_2050235103222312960",
+          "start": 48,
+          "url": "https://t.co/qRtMWiutnq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052670415194190054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050235446651957260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ghjhccvcr: 我会遇到在意重视我的人吗\n#女高 #日常 #露出 #萝莉 #忧郁 https://t.co/qRtMWiutnq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5414,
+        "height": 960,
+        "media_key": "13_2050235103222312960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050235103222312960/img/QIU1c2nI7oVeQ2sc.jpg",
+        "public_metrics": {
+          "view_count": 3346
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050235103222312960/vid/avc1/320x564/TiBZFUsaobfsm0VY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050235103222312960/vid/avc1/480x846/EZvtTnMsqDDdDJg5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050235103222312960/vid/avc1/544x960/xVTaGIwPJy5hc3EN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050235103222312960/pl/Vhh1idbk7MqrxOa0.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050235103222312960"
+          ],
+          "media_source_tweet_id": [
+            "2050235446651957260"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "2052670415194190054",
+        "created_at": "2026-05-08T08:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052670415194190054"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "女高"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "日常"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "露出"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "萝莉"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "忧郁"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2049455211618689024",
+              "start": 3,
+              "username": "Ghjhccvcr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRtMWiutnq",
+              "end": 71,
+              "expanded_url": "https://x.com/Ghjhccvcr/status/2050235446651957260/video/1",
+              "media_key": "13_2050235103222312960",
+              "start": 48,
+              "url": "https://t.co/qRtMWiutnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052670415194190054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050235446651957260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ghjhccvcr: 我会遇到在意重视我的人吗\n#女高 #日常 #露出 #萝莉 #忧郁 https://t.co/qRtMWiutnq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050235103222312960"
+          ]
+        },
+        "author_id": "2049455211618689024",
+        "conversation_id": "2050235446651957260",
+        "created_at": "2026-05-01T15:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050235446651957260"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "女高"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "日常"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "露出"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "萝莉"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "忧郁"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRtMWiutnq",
+              "end": 56,
+              "expanded_url": "https://x.com/Ghjhccvcr/status/2050235446651957260/video/1",
+              "media_key": "13_2050235103222312960",
+              "start": 33,
+              "url": "https://t.co/qRtMWiutnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050235446651957260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13486,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我会遇到在意重视我的人吗\n#女高 #日常 #露出 #萝莉 #忧郁 https://t.co/qRtMWiutnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 \n低浮上 我只是一個脆弱的小女孩😔 不接任何线下别来私信我",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 116,
+          "like_count": 1261,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 192
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T11:47:28.000Z",
+        "description": "🚪88🚪188无上限。希望可以被大家投喂谢谢你们",
+        "id": "2049455211618689024",
+        "name": "泉此方",
+        "pinned_tweet_id": "2050235446651957260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051389393857056768/bwUvSbyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 92,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 48
+        },
+        "username": "Ghjhccvcr",
+        "verified": false
+      }
+    ]
+  }
+}

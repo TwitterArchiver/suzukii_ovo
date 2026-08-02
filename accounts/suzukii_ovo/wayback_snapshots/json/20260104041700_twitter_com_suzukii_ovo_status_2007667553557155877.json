@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007424932465258500",
+        "3_2007424932465258496",
+        "3_2007424932469452802",
+        "3_2007424932465274880"
+      ],
+      "media_source_tweet_id": [
+        "2007424950463017391",
+        "2007424950463017391",
+        "2007424950463017391",
+        "2007424950463017391"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2007667553557155877",
+    "created_at": "2026-01-04T04:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T05:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007667553557155877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2005647227868655617",
+          "start": 3,
+          "username": "prpurui61906"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FW1TFNtXZb",
+          "end": 117,
+          "expanded_url": "https://x.com/prpurui61906/status/2007424950463017391/photo/1",
+          "media_key": "3_2007424932465258500",
+          "start": 94,
+          "url": "https://t.co/FW1TFNtXZb"
+        },
+        {
+          "display_url": "pic.x.com/FW1TFNtXZb",
+          "end": 117,
+          "expanded_url": "https://x.com/prpurui61906/status/2007424950463017391/photo/1",
+          "media_key": "3_2007424932465258496",
+          "start": 94,
+          "url": "https://t.co/FW1TFNtXZb"
+        },
+        {
+          "display_url": "pic.x.com/FW1TFNtXZb",
+          "end": 117,
+          "expanded_url": "https://x.com/prpurui61906/status/2007424950463017391/photo/1",
+          "media_key": "3_2007424932469452802",
+          "start": 94,
+          "url": "https://t.co/FW1TFNtXZb"
+        },
+        {
+          "display_url": "pic.x.com/FW1TFNtXZb",
+          "end": 117,
+          "expanded_url": "https://x.com/prpurui61906/status/2007424950463017391/photo/1",
+          "media_key": "3_2007424932465274880",
+          "start": 94,
+          "url": "https://t.co/FW1TFNtXZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007667553557155877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007424950463017391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @prpurui61906: ip广东08年170/100沉浸式收门槛中！验证20r接线下接定制出原味什么都接，很缺钱爱我请给我打钱🥹顺便提一句我卖普瑞巴林和普瑞处方，有需要请私！ https://t.co/FW1TFNtXZb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007667553557155877].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007667553557155877",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007667553557155877"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1467,
+        "media_key": "3_2007424932465258500",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vOVxzasAQDVYV.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1731,
+        "media_key": "3_2007424932465258496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vOVxzasAAAiiQ.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1705,
+        "media_key": "3_2007424932469452802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vOVx0asAI34MH.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1713,
+        "media_key": "3_2007424932465274880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vOVxza8AA5XCm.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007424932465258500",
+            "3_2007424932465258496",
+            "3_2007424932469452802",
+            "3_2007424932465274880"
+          ]
+        },
+        "author_id": "2005647227868655617",
+        "conversation_id": "2007424950463017391",
+        "created_at": "2026-01-03T12:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T13:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007424950463017391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FW1TFNtXZb",
+              "end": 99,
+              "expanded_url": "https://x.com/prpurui61906/status/2007424950463017391/photo/1",
+              "media_key": "3_2007424932465258500",
+              "start": 76,
+              "url": "https://t.co/FW1TFNtXZb"
+            },
+            {
+              "display_url": "pic.x.com/FW1TFNtXZb",
+              "end": 99,
+              "expanded_url": "https://x.com/prpurui61906/status/2007424950463017391/photo/1",
+              "media_key": "3_2007424932465258496",
+              "start": 76,
+              "url": "https://t.co/FW1TFNtXZb"
+            },
+            {
+              "display_url": "pic.x.com/FW1TFNtXZb",
+              "end": 99,
+              "expanded_url": "https://x.com/prpurui61906/status/2007424950463017391/photo/1",
+              "media_key": "3_2007424932469452802",
+              "start": 76,
+              "url": "https://t.co/FW1TFNtXZb"
+            },
+            {
+              "display_url": "pic.x.com/FW1TFNtXZb",
+              "end": 99,
+              "expanded_url": "https://x.com/prpurui61906/status/2007424950463017391/photo/1",
+              "media_key": "3_2007424932465274880",
+              "start": 76,
+              "url": "https://t.co/FW1TFNtXZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007424950463017391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ip广东08年170/100沉浸式收门槛中！验证20r接线下接定制出原味什么都接，很缺钱爱我请给我打钱🥹顺便提一句我卖普瑞巴林和普瑞处方，有需要请私！ https://t.co/FW1TFNtXZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "location": "🚪88 不线下",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2006015798389678368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 67,
+          "like_count": 536,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 101
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T14:29:11.000Z",
+        "description": "坐标广东接线下，线下🚪288，验证20r，出普瑞巴林和普瑞处方，我需要很多很多的钱和很多很多的爱😿欢迎互转互fo",
+        "id": "2005647227868655617",
+        "name": "普瑞巴林",
+        "pinned_tweet_id": "2007424950463017391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647489236451329/zDsiPOuj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 19,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "username": "prpurui61906",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935672249308368896"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1935672261161480242",
+    "created_at": "2025-06-19T12:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T13:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935672261161480242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oJVNb3aBGn",
+          "end": 25,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1935672261161480242/photo/1",
+          "media_key": "3_1935672249308368896",
+          "start": 2,
+          "url": "https://t.co/oJVNb3aBGn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935672261161480242",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😌 https://t.co/oJVNb3aBGn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1935672249308368896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtzjp7WbUAAPP4N.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935672249308368896"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1935672261161480242",
+        "created_at": "2025-06-19T12:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T13:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935672261161480242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJVNb3aBGn",
+              "end": 25,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1935672261161480242/photo/1",
+              "media_key": "3_1935672249308368896",
+              "start": 2,
+              "url": "https://t.co/oJVNb3aBGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935672261161480242",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😌 https://t.co/oJVNb3aBGn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "",
+        "id": "1909540060699279362",
+        "name": "AAA-豆芽种植批发 牙齿哥",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935649885707243520/Kb5nxeIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 29,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 19
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

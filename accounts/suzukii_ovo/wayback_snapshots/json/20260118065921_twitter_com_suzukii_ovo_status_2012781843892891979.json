@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2012781843892891979",
+    "created_at": "2026-01-18T06:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T07:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012781843892891979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939215776965357568",
+          "start": 3,
+          "username": "Otaku_rain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012781843892891979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012510675231474039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Otaku_rain: 我是雾塔* 可以叫我小妍^-^\n\n🚪52 消息都会回 开放朋友圈\n🚪88 掉落福利小视频/照片等\n\n其余金额越多解锁越多…\n语音验证免费 视频10r\n有定制照片视频原味线下等服务…\n\n欢迎小女孩们和我互fo互转！\n无论如何希望你们开心快乐！(&gt;﹏…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2012781843892891979].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2012781843892891979",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2012781843892891979"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012510624874397696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3fwCZWgAAXWZ5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012510624882798592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3fwCbWsAAEa_l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2012510624878657536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3fwCaXgAAWkBc.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012510624874397696",
+            "3_2012510624882798592",
+            "3_2012510624878657536"
+          ]
+        },
+        "author_id": "1939215776965357568",
+        "conversation_id": "2012510675231474039",
+        "created_at": "2026-01-17T13:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012510675231474039"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "地雷系"
+            },
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "量产型"
+            },
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "原味"
+            },
+            {
+              "end": 155,
+              "start": 151,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 160,
+              "start": 156,
+              "tag": "门槛姐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZEo4eM2KcY",
+              "end": 184,
+              "expanded_url": "https://x.com/Otaku_rain/status/2012510675231474039/photo/1",
+              "media_key": "3_2012510624874397696",
+              "start": 161,
+              "url": "https://t.co/ZEo4eM2KcY"
+            },
+            {
+              "display_url": "pic.x.com/ZEo4eM2KcY",
+              "end": 184,
+              "expanded_url": "https://x.com/Otaku_rain/status/2012510675231474039/photo/1",
+              "media_key": "3_2012510624882798592",
+              "start": 161,
+              "url": "https://t.co/ZEo4eM2KcY"
+            },
+            {
+              "display_url": "pic.x.com/ZEo4eM2KcY",
+              "end": 184,
+              "expanded_url": "https://x.com/Otaku_rain/status/2012510675231474039/photo/1",
+              "media_key": "3_2012510624878657536",
+              "start": 161,
+              "url": "https://t.co/ZEo4eM2KcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012510675231474039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 612,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是雾塔* 可以叫我小妍^-^\n\n🚪52 消息都会回 开放朋友圈\n🚪88 掉落福利小视频/照片等\n\n其余金额越多解锁越多…\n语音验证免费 视频10r\n有定制照片视频原味线下等服务…\n\n欢迎小女孩们和我互fo互转！\n无论如何希望你们开心快乐！(&gt;﹏&lt;)\n#地雷系 #量产型 #爸爸活 #原味 #门槛妹 #门槛姐 https://t.co/ZEo4eM2KcY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 64,
+          "like_count": 604,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 100
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T06:54:20.000Z",
+        "description": "雾塔.. 可以叫小妍^^ 🤍 *地雷/量产/萌 原味/线下半绿/一日女友/爸爸活",
+        "id": "1939215776965357568",
+        "location": "🚪52/88",
+        "name": "雾塔_rain*",
+        "pinned_tweet_id": "2012510675231474039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956016604485181447/A1NkzNxS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 5,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 114
+        },
+        "username": "Otaku_rain",
+        "verified": false
+      }
+    ]
+  }
+}

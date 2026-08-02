@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2052452312057286990",
+    "created_at": "2026-05-09T15:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053131221744726104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1907823299108978688",
+          "start": 0,
+          "username": "Tewi77nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053131221744726104",
+    "in_reply_to_user_id": "1907823299108978688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052452312057286990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tewi77nya 我爱你吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2052452312057286990",
+        "created_at": "2026-05-09T15:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053131221744726104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1907823299108978688",
+              "start": 0,
+              "username": "Tewi77nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053131221744726104",
+        "in_reply_to_user_id": "1907823299108978688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052452312057286990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tewi77nya 我爱你吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907823299108978688",
+        "conversation_id": "2052452312057286990",
+        "created_at": "2026-05-07T18:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052452312057286990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suzukii_ovo/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/suzukii_ovo/status/2052405602203373994",
+              "start": 3,
+              "url": "https://t.co/Te8PFEmp2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052452312057286990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052405602203373994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝贝 https://t.co/Te8PFEmp2k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 \n低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 115,
+          "like_count": 1279,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 193
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:52:17.000Z",
+        "description": "战士、巫女、天使、金星人、妖精、龙族的臣民，请给我写信吧！",
+        "id": "1907823299108978688",
+        "location": "🕳️🐀",
+        "name": "牛乳小麦粉",
+        "pinned_tweet_id": "2004998593628045465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035092466463019008/zc4tIViQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 141,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 80
+        },
+        "username": "Tewi77nya",
+        "verified": false
+      }
+    ]
+  }
+}

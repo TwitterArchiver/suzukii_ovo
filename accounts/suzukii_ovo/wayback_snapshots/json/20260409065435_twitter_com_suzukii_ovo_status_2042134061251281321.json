@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2040049739203547172",
+    "created_at": "2026-04-09T06:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042134061251281321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1777636769187676160",
+          "start": 0,
+          "username": "Travisyangdrum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042134061251281321",
+    "in_reply_to_user_id": "1777636769187676160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042127413065466011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Travisyangdrum 对🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2040049739203547172",
+        "created_at": "2026-04-09T06:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042134061251281321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1777636769187676160",
+              "start": 0,
+              "username": "Travisyangdrum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042134061251281321",
+        "in_reply_to_user_id": "1777636769187676160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042127413065466011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Travisyangdrum 对🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777636769187676160",
+        "conversation_id": "2040049739203547172",
+        "created_at": "2026-04-09T06:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042127413065466011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909540060699279362",
+              "start": 0,
+              "username": "suzukii_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042127413065466011",
+        "in_reply_to_user_id": "1909540060699279362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040049739203547172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzukii_ovo 电子烟遗照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔 不接任何线下别来私信我",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 100,
+          "like_count": 1082,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 150
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T09:57:00.000Z",
+        "description": "",
+        "id": "1777636769187676160",
+        "name": "Tisav 5000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920384370797363200/qjap6c_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 63,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "Travisyangdrum",
+        "verified": false
+      }
+    ]
+  }
+}

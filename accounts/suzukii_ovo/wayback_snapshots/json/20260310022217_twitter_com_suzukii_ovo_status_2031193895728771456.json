@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2030606853735174384",
+    "created_at": "2026-03-10T02:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T03:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031193895728771456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1777636769187676160",
+          "start": 0,
+          "username": "Travisyangdrum"
+        },
+        {
+          "end": 31,
+          "id": "747287651884011521",
+          "start": 16,
+          "username": "Emmanuel_Brad9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031193895728771456",
+    "in_reply_to_user_id": "1777636769187676160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031166636523499886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Travisyangdrum @Emmanuel_Brad9 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2030606853735174384",
+        "created_at": "2026-03-10T02:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T03:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031193895728771456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1777636769187676160",
+              "start": 0,
+              "username": "Travisyangdrum"
+            },
+            {
+              "end": 31,
+              "id": "747287651884011521",
+              "start": 16,
+              "username": "Emmanuel_Brad9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031193895728771456",
+        "in_reply_to_user_id": "1777636769187676160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031166636523499886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Travisyangdrum @Emmanuel_Brad9 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777636769187676160",
+        "conversation_id": "2030606853735174384",
+        "created_at": "2026-03-10T00:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T01:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031166636523499886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "747287651884011521",
+              "start": 0,
+              "username": "Emmanuel_Brad9"
+            },
+            {
+              "end": 28,
+              "id": "1909540060699279362",
+              "start": 16,
+              "username": "suzukii_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031166636523499886",
+        "in_reply_to_user_id": "747287651884011521",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030968832269889639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emmanuel_Brad9 @suzukii_ovo nig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔 不接任何线下别来私信我",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 81,
+          "like_count": 803,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 115
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T09:57:00.000Z",
+        "description": "",
+        "id": "1777636769187676160",
+        "name": "Tisav 5000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920384370797363200/qjap6c_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 59,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "Travisyangdrum",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-27T04:37:14.000Z",
+        "description": "I'm Gone Make It😎🤘🏽🏈",
+        "id": "747287651884011521",
+        "name": "Ellison Bradley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/787394855978885121/gkyXXWII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 99,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 124
+        },
+        "username": "Emmanuel_Brad9",
+        "verified": false
+      }
+    ]
+  }
+}

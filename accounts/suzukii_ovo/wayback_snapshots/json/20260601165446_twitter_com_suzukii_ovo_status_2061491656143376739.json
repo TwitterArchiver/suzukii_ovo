@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2061491656143376739",
+    "created_at": "2026-06-01T16:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061491656143376739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1922650331454058496",
+          "start": 3,
+          "username": "xiaoshu_yy33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061491656143376739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061033909727695059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoshu_yy33: 其实很神奇 为什么给主播刷跑车和给门槛其实我觉得这俩算是差不多加联系方法 后者会被一直骂甚至造谣啥的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2061491656143376739",
+        "created_at": "2026-06-01T16:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061491656143376739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1922650331454058496",
+              "start": 3,
+              "username": "xiaoshu_yy33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061491656143376739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061033909727695059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoshu_yy33: 其实很神奇 为什么给主播刷跑车和给门槛其实我觉得这俩算是差不多加联系方法 后者会被一直骂甚至造谣啥的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922650331454058496",
+        "conversation_id": "2061033909727695059",
+        "created_at": "2026-05-31T10:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061033909727695059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061033909727695059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 52490,
+          "like_count": 201,
+          "quote_count": 1,
+          "reply_count": 123,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实很神奇 为什么给主播刷跑车和给门槛其实我觉得这俩算是差不多加联系方法 后者会被一直骂甚至造谣啥的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 102,
+          "like_count": 1428,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 187
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T13:49:05.000Z",
+        "description": "🏳️‍⚧️",
+        "id": "1922650331454058496",
+        "location": "纯绿🚪288/520 私信打钱以外不回",
+        "name": "解树",
+        "pinned_tweet_id": "2059560719902036245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056883446212104193/OKfrUqee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4651,
+          "following_count": 45,
+          "like_count": 868,
+          "listed_count": 17,
+          "media_count": 146,
+          "tweet_count": 1414
+        },
+        "username": "xiaoshu_yy33",
+        "verified": false
+      }
+    ]
+  }
+}

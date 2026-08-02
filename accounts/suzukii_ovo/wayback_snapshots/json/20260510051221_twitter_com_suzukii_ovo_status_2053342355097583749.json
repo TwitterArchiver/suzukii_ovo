@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2053342355097583749",
+    "created_at": "2026-05-10T05:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053342355097583749"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "门槛"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "女大"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "反差"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "求包养"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "非錄"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "线下"
+        },
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "情緒价値"
+        },
+        {
+          "end": 109,
+          "start": 104,
+          "tag": "电子女友"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "媚男"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "巨乳"
+        },
+        {
+          "end": 123,
+          "start": 118,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2367037296",
+          "start": 3,
+          "username": "0807Kyoko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/vQ",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/vQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053342355097583749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047609992384307637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0807Kyoko: 这里是小欣\n我只是想攒钱开一家花店\n求支持！！！\n有没有哥哥入门🥺\n欢迎宝贝找我互转互fo~\n#门槛 #门槛妹 #女大 #反差 #金主爸爸 #求包养 #非錄 #线下 #情緒价値 #电子女友 #媚男 #巨乳 #一日女友 https://t.co/vQ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2047609979335741440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqSbXDaEAAKwkf.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047609979340021760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqSbXEbYAAuTC_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2053342355097583749",
+        "created_at": "2026-05-10T05:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053342355097583749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "门槛"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "女大"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "反差"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "求包养"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "非錄"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "线下"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "情緒价値"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "电子女友"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "媚男"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "巨乳"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "一日女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2367037296",
+              "start": 3,
+              "username": "0807Kyoko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/vQ",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/vQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053342355097583749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047609992384307637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0807Kyoko: 这里是小欣\n我只是想攒钱开一家花店\n求支持！！！\n有没有哥哥入门🥺\n欢迎宝贝找我互转互fo~\n#门槛 #门槛妹 #女大 #反差 #金主爸爸 #求包养 #非錄 #线下 #情緒价値 #电子女友 #媚男 #巨乳 #一日女友 https://t.co/vQ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047609979335741440",
+            "3_2047609979340021760"
+          ]
+        },
+        "author_id": "2367037296",
+        "conversation_id": "2047609992384307637",
+        "created_at": "2026-04-24T09:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047609992384307637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "门槛"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "女大"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "反差"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "求包养"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "非錄"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "线下"
+            },
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "情緒价値"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "电子女友"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "媚男"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "巨乳"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQVhzg7q8P",
+              "end": 132,
+              "expanded_url": "https://x.com/0807Kyoko/status/2047609992384307637/photo/1",
+              "media_key": "3_2047609979335741440",
+              "start": 109,
+              "url": "https://t.co/vQVhzg7q8P"
+            },
+            {
+              "display_url": "pic.x.com/vQVhzg7q8P",
+              "end": 132,
+              "expanded_url": "https://x.com/0807Kyoko/status/2047609992384307637/photo/1",
+              "media_key": "3_2047609979340021760",
+              "start": 109,
+              "url": "https://t.co/vQVhzg7q8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047609992384307637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10177,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小欣\n我只是想攒钱开一家花店\n求支持！！！\n有没有哥哥入门🥺\n欢迎宝贝找我互转互fo~\n#门槛 #门槛妹 #女大 #反差 #金主爸爸 #求包养 #非錄 #线下 #情緒价値 #电子女友 #媚男 #巨乳 #一日女友 https://t.co/vQVhzg7q8P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 \n低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 115,
+          "like_count": 1281,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 195
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-01T12:57:18.000Z",
+        "description": "04 女大 坐标20r 欢迎女宝找我互转互fo！",
+        "id": "2367037296",
+        "name": "欣怡（努力版）",
+        "pinned_tweet_id": "2047609992384307637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009124427494248450/b2lIAu-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 90,
+          "like_count": 159,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 461
+        },
+        "username": "0807Kyoko",
+        "verified": false
+      }
+    ]
+  }
+}

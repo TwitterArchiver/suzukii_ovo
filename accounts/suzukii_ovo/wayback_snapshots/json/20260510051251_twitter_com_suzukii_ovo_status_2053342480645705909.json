@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2053342480645705909",
+    "created_at": "2026-05-10T05:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053342480645705909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1991688593048498179",
+          "start": 3,
+          "username": "ChereeKolm85999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053342480645705909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003508325330329932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChereeKolm85999: °.⑅ʚ小悦宝宝食用攻略ɞ⑅.°\n刚满18岁 已成年 放心入\n赚点生活费给自己买漂亮的小裙子 窝最最最喜欢jk和Lolita惹！\n快来入门赞助我买兔熊 窝可以免费语音验证 ！也可接视频验证哦\n其实每天都是T^T的 和你见面会变成˶&gt;𖥦&lt;…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053342480645705909].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053342480645705909",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053342480645705909"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003508315725369344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83kMrdaEAAA5Y0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1102,
+        "media_key": "3_2003508315767341064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83kMrnagAgzRhB.jpg",
+        "width": 1027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003508315725369344",
+            "3_2003508315767341064"
+          ]
+        },
+        "author_id": "1991688593048498179",
+        "conversation_id": "2003508325330329932",
+        "created_at": "2025-12-23T16:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T17:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003508325330329932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsIK0kuYVt",
+              "end": 148,
+              "expanded_url": "https://x.com/ChereeKolm85999/status/2003508325330329932/photo/1",
+              "media_key": "3_2003508315725369344",
+              "start": 125,
+              "url": "https://t.co/TsIK0kuYVt"
+            },
+            {
+              "display_url": "pic.x.com/TsIK0kuYVt",
+              "end": 148,
+              "expanded_url": "https://x.com/ChereeKolm85999/status/2003508325330329932/photo/1",
+              "media_key": "3_2003508315767341064",
+              "start": 125,
+              "url": "https://t.co/TsIK0kuYVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003508325330329932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 65467,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "°.⑅ʚ小悦宝宝食用攻略ɞ⑅.°\n刚满18岁 已成年 放心入\n赚点生活费给自己买漂亮的小裙子 窝最最最喜欢jk和Lolita惹！\n快来入门赞助我买兔熊 窝可以免费语音验证 ！也可接视频验证哦\n其实每天都是T^T的 和你见面会变成˶&gt;𖥦&lt; https://t.co/TsIK0kuYVt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 \n低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 115,
+          "like_count": 1281,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 197
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T02:02:20.000Z",
+        "description": "本小悦宝列举了一张清单 关于必须入我门槛的理由： 1.我很有趣 2.我身体很柔软 3.我愿意一直倾听你笨笨的问题 4.在一起的时候吃什么零食你挑 5.我喜欢你",
+        "id": "1991688593048498179",
+        "name": "婴儿悦（天津",
+        "pinned_tweet_id": "2003508325330329932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003504201528401920/EDUlsB_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 10,
+          "like_count": 0,
+          "listed_count": 6,
+          "media_count": 23,
+          "tweet_count": 179
+        },
+        "username": "ChereeKolm85999",
+        "verified": false
+      }
+    ]
+  }
+}

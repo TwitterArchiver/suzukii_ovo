@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2052670229520781527",
+    "created_at": "2026-05-08T08:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052670229520781527"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "门槛"
+        },
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "门槛哥"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1953765612834238466",
+          "start": 3,
+          "username": "NEVERTwT3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052670229520781527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049109960349675540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NEVERTwT3: =小伤伤 坐标广州 接线下爸爸活妈妈活\n门槛详细看p2 入门支持口令/奖赏码\n所有门槛只有纯绿 不接非绿不要骚扰我\n脾气很好 不要欺负我 我会偷偷哭泣\n入门找我玩叭 我会把你捧在手心\n欢迎女孩纸互fo互转˃̶͈ ꇴ ˂̶͈\n#门槛  #门槛哥 #金…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049109922923868160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_mnkWa8AAeTA0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049109922617659392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_mnjNakAAZDnY.jpg",
+        "width": 1630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2052670229520781527",
+        "created_at": "2026-05-08T08:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052670229520781527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "门槛"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "门槛哥"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1953765612834238466",
+              "start": 3,
+              "username": "NEVERTwT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052670229520781527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049109960349675540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NEVERTwT3: =小伤伤 坐标广州 接线下爸爸活妈妈活\n门槛详细看p2 入门支持口令/奖赏码\n所有门槛只有纯绿 不接非绿不要骚扰我\n脾气很好 不要欺负我 我会偷偷哭泣\n入门找我玩叭 我会把你捧在手心\n欢迎女孩纸互fo互转˃̶͈ ꇴ ˂̶͈\n#门槛  #门槛哥 #金…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049109922923868160",
+            "3_2049109922617659392"
+          ]
+        },
+        "author_id": "1953765612834238466",
+        "conversation_id": "2049109960349675540",
+        "created_at": "2026-04-28T12:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049109960349675540"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "门槛"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "金主"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "一日女友"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "电子女友"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "女高"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "反差"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 157,
+              "start": 153,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "纯绿"
+            },
+            {
+              "end": 166,
+              "start": 163,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oKZKiL8Vtu",
+              "end": 190,
+              "expanded_url": "https://x.com/NEVERTwT3/status/2049109960349675540/photo/1",
+              "media_key": "3_2049109922923868160",
+              "start": 167,
+              "url": "https://t.co/oKZKiL8Vtu"
+            },
+            {
+              "display_url": "pic.x.com/oKZKiL8Vtu",
+              "end": 190,
+              "expanded_url": "https://x.com/NEVERTwT3/status/2049109960349675540/photo/1",
+              "media_key": "3_2049109922617659392",
+              "start": 167,
+              "url": "https://t.co/oKZKiL8Vtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049109960349675540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4078,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "=小伤伤 坐标广州 接线下爸爸活妈妈活\n门槛详细看p2 入门支持口令/奖赏码\n所有门槛只有纯绿 不接非绿不要骚扰我\n脾气很好 不要欺负我 我会偷偷哭泣\n入门找我玩叭 我会把你捧在手心\n欢迎女孩纸互fo互转˃̶͈ ꇴ ˂̶͈\n#门槛  #门槛哥 #金主  #一日女友 #电子女友 #女高 #反差  #妈妈活 #爸爸活 #纯绿  #线下 https://t.co/oKZKiL8Vtu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 \n低浮上 我只是一個脆弱的小女孩😔 不接任何线下别来私信我",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 116,
+          "like_count": 1261,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 191
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T10:30:07.000Z",
+        "description": "我想过一种平静又幸福的生活…",
+        "id": "1953765612834238466",
+        "location": "🚪128/288",
+        "name": "当一辈子的透明水母",
+        "pinned_tweet_id": "2049109960349675540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042234299433504768/9D83rGSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 53,
+          "like_count": 290,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 258
+        },
+        "username": "NEVERTwT3",
+        "verified": false
+      }
+    ]
+  }
+}

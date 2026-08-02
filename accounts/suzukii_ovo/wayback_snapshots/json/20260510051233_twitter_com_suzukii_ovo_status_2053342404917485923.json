@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2053342404917485923",
+    "created_at": "2026-05-10T05:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053342404917485923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009541019503874048",
+          "start": 3,
+          "username": "ncrmjdkl3vub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053342404917485923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052003626172981517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ncrmjdkl3vub: 可以🈚️套需要双方当面做检测\n问ip10r\n服务行业门槛越高 情绪价值越高 不支持退门\n100➕联系方式 陪聊 10张照片\n200陪聊/陪玩 20张 可以聊涩涩\n300➕微信 35张图 每个月1-2次涩涩视频\n350解锁线下\n450 更快回复…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053342404917485923].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053342404917485923",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053342404917485923"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12035,
+        "height": 1280,
+        "media_key": "13_2052003305254268928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052003305254268928/img/nlNa7HsYkpXE07V6.jpg",
+        "public_metrics": {
+          "view_count": 1592
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052003305254268928/vid/avc1/320x568/uxRENyw0te6wp6c8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052003305254268928/vid/avc1/480x852/XEoJlgNlI2hoSWWk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052003305254268928/vid/avc1/720x1280/mWRleI8s4miBcwSG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052003305254268928/pl/0HImuUG3-PE4uaza.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 630,
+        "media_key": "3_2052003305128361984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHouIlAagAA7leS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052003305254268928",
+            "3_2052003305128361984"
+          ]
+        },
+        "author_id": "2009541019503874048",
+        "conversation_id": "2052003626172981517",
+        "created_at": "2026-05-06T12:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052003626172981517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKHND5kBSg",
+              "end": 183,
+              "expanded_url": "https://x.com/ncrmjdkl3vub/status/2052003626172981517/video/1",
+              "media_key": "13_2052003305254268928",
+              "start": 160,
+              "url": "https://t.co/DKHND5kBSg"
+            },
+            {
+              "display_url": "pic.x.com/DKHND5kBSg",
+              "end": 183,
+              "expanded_url": "https://x.com/ncrmjdkl3vub/status/2052003626172981517/video/1",
+              "media_key": "3_2052003305128361984",
+              "start": 160,
+              "url": "https://t.co/DKHND5kBSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052003626172981517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5420,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "可以🈚️套需要双方当面做检测\n问ip10r\n服务行业门槛越高 情绪价值越高 不支持退门\n100➕联系方式 陪聊 10张照片\n200陪聊/陪玩 20张 可以聊涩涩\n300➕微信 35张图 每个月1-2次涩涩视频\n350解锁线下\n450 更快回复 主动聊天 50张图 每周一次涩涩视频\n1314非绿一晚上12小时➕含上所有 https://t.co/DKHND5kBSg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 \n低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 115,
+          "like_count": 1281,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 196
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T08:22:55.000Z",
+        "description": "问ip/面付价格 10r 我是玻璃心别骂我",
+        "id": "2009541019503874048",
+        "location": "不接受门槛面付 谢谢喜欢",
+        "name": "魔童宝宝",
+        "pinned_tweet_id": "2052003626172981517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029200043522310148/I0o9kCPn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 10,
+          "media_count": 17,
+          "tweet_count": 69
+        },
+        "username": "ncrmjdkl3vub",
+        "verified": false
+      }
+    ]
+  }
+}

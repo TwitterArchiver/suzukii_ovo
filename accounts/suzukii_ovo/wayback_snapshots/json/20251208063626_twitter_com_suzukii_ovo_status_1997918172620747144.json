@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996974734106677248"
+      ],
+      "media_source_tweet_id": [
+        "1996974759297614225"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1997918172620747144",
+    "created_at": "2025-12-08T06:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T07:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997918172620747144"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989683790617382912",
+          "start": 3,
+          "username": "sequel_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JLkNU4OBzu",
+          "end": 46,
+          "expanded_url": "https://x.com/sequel_ovo/status/1996974759297614225/photo/1",
+          "media_key": "3_1996974734106677248",
+          "start": 23,
+          "url": "https://t.co/JLkNU4OBzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997918172620747144",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996974759297614225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sequel_ovo: #自撮り界隈 https://t.co/JLkNU4OBzu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1997918172620747144].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1997918172620747144",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1997918172620747144"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1996974734106677248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7at8LPb0AAGDK8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996974734106677248"
+          ]
+        },
+        "author_id": "1989683790617382912",
+        "conversation_id": "1996974759297614225",
+        "created_at": "2025-12-05T16:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996974759297614225"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLkNU4OBzu",
+              "end": 30,
+              "expanded_url": "https://x.com/sequel_ovo/status/1996974759297614225/photo/1",
+              "media_key": "3_1996974734106677248",
+              "start": 7,
+              "url": "https://t.co/JLkNU4OBzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996974759297614225",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/JLkNU4OBzu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "1958372420840284628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 51,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 55
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T13:16:06.000Z",
+        "description": "我告诉你我根本就是没有错，｜前世@sequeliscute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "sequeliscute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/seuqelisctue13…",
+                "end": 23,
+                "expanded_url": "https://t.me/seuqelisctue1314",
+                "start": 0,
+                "url": "https://t.co/DiUshh4xpU"
+              }
+            ]
+          }
+        },
+        "id": "1989683790617382912",
+        "location": "🚪88/188",
+        "name": "seque l",
+        "pinned_tweet_id": "1996771259913515360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989683899526754304/Kaj24K-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 14,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/DiUshh4xpU",
+        "username": "sequel_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

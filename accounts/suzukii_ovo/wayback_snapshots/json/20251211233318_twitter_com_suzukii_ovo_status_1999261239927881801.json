@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "1999261239927881801",
+    "created_at": "2025-12-11T23:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T00:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999261239927881801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926115911276146688",
+          "start": 3,
+          "username": "minmax2330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999261239927881801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998757893722747367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minmax2330: 自从你们把福说成逼，我再也不能直视有福共享这个词儿了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "1999261239927881801",
+        "created_at": "2025-12-11T23:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T00:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999261239927881801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926115911276146688",
+              "start": 3,
+              "username": "minmax2330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999261239927881801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998757893722747367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minmax2330: 自从你们把福说成逼，我再也不能直视有福共享这个词儿了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926115911276146688",
+        "conversation_id": "1998757893722747367",
+        "created_at": "2025-12-10T14:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998757893722747367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998757893722747367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 389481,
+          "like_count": 2011,
+          "quote_count": 12,
+          "reply_count": 205,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "自从你们把福说成逼，我再也不能直视有福共享这个词儿了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "location": "🚪88 不线下",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "1958372420840284628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 56,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 63
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T03:20:05.000Z",
+        "description": "一个很坏的小女孩 主页没黄纯绿只有各种吐槽｜我没任何私下联系方式 ｜https://t.co/ODft3qAgW4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 57,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=08aSNhb3",
+                "start": 34,
+                "url": "https://t.co/ODft3qAgW4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/minmax2330",
+                "end": 23,
+                "expanded_url": "https://t.me/minmax2330",
+                "start": 0,
+                "url": "https://t.co/3RMBQG3LLi"
+              }
+            ]
+          }
+        },
+        "id": "1926115911276146688",
+        "location": "我的私人电报👉🏻",
+        "name": "ivee",
+        "pinned_tweet_id": "1994402678521425993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929532345033564160/70Usr7wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7561,
+          "following_count": 43,
+          "like_count": 10032,
+          "listed_count": 14,
+          "media_count": 37,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/3RMBQG3LLi",
+        "username": "minmax2330",
+        "verified": false
+      }
+    ]
+  }
+}

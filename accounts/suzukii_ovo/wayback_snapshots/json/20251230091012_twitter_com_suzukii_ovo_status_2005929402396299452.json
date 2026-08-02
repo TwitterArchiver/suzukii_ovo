@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005929393982787585"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2005929402396299452",
+    "created_at": "2025-12-30T09:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T10:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005929402396299452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989683790617382912",
+          "start": 0,
+          "username": "sequel_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rugjVjh27Y",
+          "end": 53,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2005929402396299452/photo/1",
+          "media_key": "3_2005929393982787585",
+          "start": 30,
+          "url": "https://t.co/rugjVjh27Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005929402396299452",
+    "in_reply_to_user_id": "1989683790617382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@sequel_ovo 给我送的生日礼物😋💕好可爱呀..！ https://t.co/rugjVjh27Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005929393982787585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Z-J-zb0AEAuoF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005929393982787585"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "2005929402396299452",
+        "created_at": "2025-12-30T09:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T10:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005929402396299452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989683790617382912",
+              "start": 0,
+              "username": "sequel_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rugjVjh27Y",
+              "end": 53,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2005929402396299452/photo/1",
+              "media_key": "3_2005929393982787585",
+              "start": 30,
+              "url": "https://t.co/rugjVjh27Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005929402396299452",
+        "in_reply_to_user_id": "1989683790617382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@sequel_ovo 给我送的生日礼物😋💕好可爱呀..！ https://t.co/rugjVjh27Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "location": "🚪88 不线下",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2005674122039394401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 62,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 70
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T13:16:06.000Z",
+        "description": "续集｜病み垢｜紫色の界隈｜我告诉你我根本就是没有错｜裏垢@sequel8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "sequel8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/seuqelisctue13…",
+                "end": 23,
+                "expanded_url": "https://t.me/seuqelisctue1314",
+                "start": 0,
+                "url": "https://t.co/DiUshh3ZAm"
+              }
+            ]
+          }
+        },
+        "id": "1989683790617382912",
+        "location": "🚪88/188/288",
+        "name": "sequel",
+        "pinned_tweet_id": "2002739933497491898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989683899526754304/Kaj24K-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 24,
+          "like_count": 865,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/DiUshh3ZAm",
+        "username": "sequel_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

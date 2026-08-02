@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2069105007828615363",
+    "created_at": "2026-06-23T07:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069318367132205141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966022890287149060",
+          "start": 0,
+          "username": "7kever96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069318367132205141",
+    "in_reply_to_user_id": "1966022890287149060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069105007828615363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7kever96 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16643,
+        "height": 1280,
+        "media_key": "13_2069104924345212928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069104924345212928/img/DpEo-lV39PIvNclp.jpg",
+        "public_metrics": {
+          "view_count": 452
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069104924345212928/vid/avc1/320x568/4J_dLHUT1cPORWnK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069104924345212928/vid/avc1/480x852/Q2Sot9KK77c9xqBt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069104924345212928/vid/avc1/720x1280/EVFDhn7pMIhBBtnh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069104924345212928/pl/fcOYq4KXZOVpGNEG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2069105007828615363",
+        "created_at": "2026-06-23T07:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069318367132205141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966022890287149060",
+              "start": 0,
+              "username": "7kever96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069318367132205141",
+        "in_reply_to_user_id": "1966022890287149060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069105007828615363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7kever96 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069104924345212928"
+          ]
+        },
+        "author_id": "1966022890287149060",
+        "conversation_id": "2069105007828615363",
+        "created_at": "2026-06-22T17:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069105007828615363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9wHMVatze",
+              "end": 36,
+              "expanded_url": "https://x.com/7kever96/status/2069105007828615363/video/1",
+              "media_key": "13_2069104924345212928",
+              "start": 13,
+              "url": "https://t.co/I9wHMVatze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069105007828615363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1019,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在超市后门吸烟的两个粉毛 https://t.co/I9wHMVatze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 可验证 不线下\n低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 100,
+          "like_count": 1509,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T06:16:16.000Z",
+        "description": "i found you",
+        "id": "1966022890287149060",
+        "name": "克克煙",
+        "pinned_tweet_id": "2037484400892613056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037337921645367296/NeNs3Pbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3419,
+          "following_count": 40,
+          "like_count": 123,
+          "listed_count": 5,
+          "media_count": 11,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "7kever96",
+        "verified": false
+      }
+    ]
+  }
+}

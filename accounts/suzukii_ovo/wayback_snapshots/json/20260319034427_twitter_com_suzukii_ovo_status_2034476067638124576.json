@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018722284912173056"
+      ],
+      "media_source_tweet_id": [
+        "2018722312049303859"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2034476067638124576",
+    "created_at": "2026-03-19T03:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T04:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034476067638124576"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "裏アカ女子"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "裏垢女子"
+        },
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989683790617382912",
+          "start": 3,
+          "username": "sequel_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bCFhsWI2Kf",
+          "end": 59,
+          "expanded_url": "https://x.com/sequel_ovo/status/2018722312049303859/photo/1",
+          "media_key": "3_2018722284912173056",
+          "start": 36,
+          "url": "https://t.co/bCFhsWI2Kf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034476067638124576",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018722312049303859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sequel_ovo: #裏アカ女子 #裏垢女子 #自撮り界隈 https://t.co/bCFhsWI2Kf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034476067638124576].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034476067638124576",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034476067638124576"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2018722284912173056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPxOPRa4AAe33e.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018722284912173056"
+          ]
+        },
+        "author_id": "1989683790617382912",
+        "conversation_id": "2018722312049303859",
+        "created_at": "2026-02-03T16:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018722312049303859"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "裏アカ女子"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "裏垢女子"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCFhsWI2Kf",
+              "end": 43,
+              "expanded_url": "https://x.com/sequel_ovo/status/2018722312049303859/photo/1",
+              "media_key": "3_2018722284912173056",
+              "start": 20,
+              "url": "https://t.co/bCFhsWI2Kf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018722312049303859",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3847,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#裏アカ女子 #裏垢女子 #自撮り界隈 https://t.co/bCFhsWI2Kf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔 不接任何线下别来私信我",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 94,
+          "like_count": 888,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 120
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T13:16:06.000Z",
+        "description": "@sequel2778 @sequel5418",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "sequel2778"
+              },
+              {
+                "end": 23,
+                "start": 12,
+                "username": "sequel5418"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@sequeliscute",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@sequeliscute",
+                "start": 0,
+                "url": "https://t.co/hdT02eDQD1"
+              }
+            ]
+          }
+        },
+        "id": "1989683790617382912",
+        "location": "🚪88/188/288",
+        "name": "续集",
+        "pinned_tweet_id": "2028676407652753761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032109712427401217/ANzWnftu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 48,
+          "like_count": 2900,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/hdT02eDQD1",
+        "username": "sequel_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

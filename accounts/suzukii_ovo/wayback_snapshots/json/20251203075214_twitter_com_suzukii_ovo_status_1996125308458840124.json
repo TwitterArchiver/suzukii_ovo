@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "1995919661985399114",
+    "created_at": "2025-12-03T07:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T08:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996125308458840124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937160859262025729",
+          "start": 0,
+          "username": "sequeliscute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996125308458840124",
+    "in_reply_to_user_id": "1937160859262025729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995980435680383244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sequeliscute 爱你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "1995919661985399114",
+        "created_at": "2025-12-03T07:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T08:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996125308458840124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937160859262025729",
+              "start": 0,
+              "username": "sequeliscute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996125308458840124",
+        "in_reply_to_user_id": "1937160859262025729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995980435680383244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sequeliscute 爱你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937160859262025729",
+        "conversation_id": "1995919661985399114",
+        "created_at": "2025-12-02T22:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T23:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995980435680383244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909540060699279362",
+              "start": 0,
+              "username": "suzukii_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995980435680383244",
+        "in_reply_to_user_id": "1909540060699279362",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995919661985399114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzukii_ovo 😻😻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "1958372420840284628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 48,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 52
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T14:48:56.000Z",
+        "description": "我告诉你我根本就是没有错｜防炸小号@sequel_ovo｜ 除了口令之外的任何私信一律拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "sequel_ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/seuqelisctue13…",
+                "end": 23,
+                "expanded_url": "https://t.me/seuqelisctue1314",
+                "start": 0,
+                "url": "https://t.co/E5zbdpa5nv"
+              }
+            ]
+          }
+        },
+        "id": "1937160859262025729",
+        "location": "🚪88/188",
+        "name": "sequel",
+        "pinned_tweet_id": "1985867389477753021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981975875072462848/7Ritsf9-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 24,
+          "like_count": 1186,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/E5zbdpa5nv",
+        "username": "sequeliscute",
+        "verified": false
+      }
+    ]
+  }
+}

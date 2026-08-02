@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2047252344698700107",
+    "created_at": "2026-04-23T09:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047252344698700107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2024584670365831169",
+          "start": 3,
+          "username": "404heartecho"
+        },
+        {
+          "end": 61,
+          "id": "2023448969343545344",
+          "start": 48,
+          "username": "404heartlost"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047252344698700107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047244536217497682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @404heartecho: 我是xwx转生三世🕊️\n原号 @xwxbl00dbunn1 @404heartlost \n求求宝宝们帮我转发下助力我找回互关谢谢谢谢\n🚪58｜88 男性不过们不回\n本人文化程度低、品味恶心、精神有问题但是个善良的人请不要伤害我，我爱你们所有人…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [404heartlost].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "404heartlost",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "404heartlost"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047244488985522177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlGBBZbsAEoXYa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2047252344698700107",
+        "created_at": "2026-04-23T09:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047252344698700107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2024584670365831169",
+              "start": 3,
+              "username": "404heartecho"
+            },
+            {
+              "end": 61,
+              "id": "2023448969343545344",
+              "start": 48,
+              "username": "404heartlost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047252344698700107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047244536217497682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @404heartecho: 我是xwx转生三世🕊️\n原号 @xwxbl00dbunn1 @404heartlost \n求求宝宝们帮我转发下助力我找回互关谢谢谢谢\n🚪58｜88 男性不过们不回\n本人文化程度低、品味恶心、精神有问题但是个善良的人请不要伤害我，我爱你们所有人…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047244488985522177"
+          ]
+        },
+        "author_id": "2024584670365831169",
+        "conversation_id": "2047244536217497682",
+        "created_at": "2026-04-23T09:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047244536217497682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "2023448969343545344",
+              "start": 30,
+              "username": "404heartlost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m95u2Mzxw5",
+              "end": 188,
+              "expanded_url": "https://x.com/404heartecho/status/2047244536217497682/photo/1",
+              "media_key": "3_2047244488985522177",
+              "start": 165,
+              "url": "https://t.co/m95u2Mzxw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047244536217497682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是xwx转生三世🕊️\n原号 @xwxbl00dbunn1 @404heartlost \n求求宝宝们帮我转发下助力我找回互关谢谢谢谢\n🚪58｜88 男性不过们不回\n本人文化程度低、品味恶心、精神有问题但是个善良的人请不要伤害我，我爱你们所有人👁️👁️\n⚠️本号涉及紫餐，药物滥用，诅咒，辱骂，负能量不要来骂我不喜欢我把我屏蔽就行 https://t.co/m95u2Mzxw5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔 不接任何线下别来私信我",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 108,
+          "like_count": 1169,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 167
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T20:39:50.000Z",
+        "description": "我是xwx｜精神不正常很温良不要来伤害我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bzd83462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bzd83462",
+                "start": 0,
+                "url": "https://t.co/w4TurCgXJT"
+              }
+            ]
+          }
+        },
+        "id": "2024584670365831169",
+        "location": "notfound",
+        "name": "豆包我全家死了",
+        "pinned_tweet_id": "2047244536217497682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024585068308811780/aPf3qB4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 36,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/w4TurCgXJT",
+        "username": "404heartecho",
+        "verified": false
+      }
+    ]
+  }
+}

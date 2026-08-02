@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996603771993128960"
+      ],
+      "media_source_tweet_id": [
+        "1996603789743198297"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2006091464925995320",
+    "created_at": "2025-12-30T19:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T20:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006091464925995320"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "门槛"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "陪聊"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "地陪"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882486190575878144",
+          "start": 3,
+          "username": "kuai690059"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y4XER0ESFF",
+          "end": 126,
+          "expanded_url": "https://x.com/kuai690059/status/1996603789743198297/photo/1",
+          "media_key": "3_1996603771993128960",
+          "start": 103,
+          "url": "https://t.co/y4XER0ESFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006091464925995320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996603789743198297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuai690059: 坐标 广州 深圳\n88解锁好友位开放朋友圈（有分组）\n接线上陪聊\n线下地陪1h120\n只是一个可怜的女孩不要为难人家🥺\n#门槛妹 #门槛 #爸爸活 #妈妈活 #陪聊 #地陪 https://t.co/y4XER0ESFF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006091464925995320].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006091464925995320",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006091464925995320"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996603771993128960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VcjVrbAAA96RV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996603771993128960"
+          ]
+        },
+        "author_id": "1882486190575878144",
+        "conversation_id": "1996603789743198297",
+        "created_at": "2025-12-04T15:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996603789743198297"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "门槛"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "陪聊"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "地陪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4XER0ESFF",
+              "end": 110,
+              "expanded_url": "https://x.com/kuai690059/status/1996603789743198297/photo/1",
+              "media_key": "3_1996603771993128960",
+              "start": 87,
+              "url": "https://t.co/y4XER0ESFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996603789743198297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3317,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "坐标 广州 深圳\n88解锁好友位开放朋友圈（有分组）\n接线上陪聊\n线下地陪1h120\n只是一个可怜的女孩不要为难人家🥺\n#门槛妹 #门槛 #爸爸活 #妈妈活 #陪聊 #地陪 https://t.co/y4XER0ESFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "location": "🚪88 不线下",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2006015798389678368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950226700262047744/9PHjjYOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 60,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 82
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T17:51:54.000Z",
+        "description": "纯绿色植物 ｜🚪88｜120 只回zfb口令",
+        "id": "1882486190575878144",
+        "name": "Absinthe",
+        "pinned_tweet_id": "1996603789743198297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886020114396651520/riKTNExf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 20,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 84
+        },
+        "username": "kuai690059",
+        "verified": false
+      }
+    ]
+  }
+}

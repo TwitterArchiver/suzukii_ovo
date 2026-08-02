@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051410617274445824"
+      ],
+      "media_source_tweet_id": [
+        "2051410681342410897"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2052406366313320792",
+    "created_at": "2026-05-07T15:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052406366313320792"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 46,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 59,
+          "start": 53,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 66,
+          "start": 60,
+          "tag": "裏アカ女子"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "裏垢女子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989683790617382912",
+          "start": 3,
+          "username": "sequel_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X3PhI9Xx2W",
+          "end": 96,
+          "expanded_url": "https://x.com/sequel_ovo/status/2051410681342410897/video/1",
+          "media_key": "13_2051410617274445824",
+          "start": 73,
+          "url": "https://t.co/X3PhI9Xx2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052406366313320792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051410681342410897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sequel_ovo: 相手は私のこと好きじゃないのに私はまだ好きで話したいの辛い #地雷系女子 #自撮り界隈 #裏アカ女子 #裏垢女子 https://t.co/X3PhI9Xx2W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6765,
+        "height": 1280,
+        "media_key": "13_2051410617274445824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051410617274445824/img/oDhD5M2rd3Q36Rkj.jpg",
+        "public_metrics": {
+          "view_count": 1660
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051410617274445824/vid/avc1/320x568/8Y8I8AArDRyenzVn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051410617274445824/vid/avc1/480x852/cuG6Y-5rRBelmN6r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051410617274445824/vid/avc1/720x1280/BnLLUoLa_8G8nVzt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051410617274445824/pl/b1FKpoEKZ0--RMwX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051410617274445824"
+          ],
+          "media_source_tweet_id": [
+            "2051410681342410897"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "2052406366313320792",
+        "created_at": "2026-05-07T15:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052406366313320792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 46,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 59,
+              "start": 53,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 66,
+              "start": 60,
+              "tag": "裏アカ女子"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "裏垢女子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989683790617382912",
+              "start": 3,
+              "username": "sequel_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3PhI9Xx2W",
+              "end": 96,
+              "expanded_url": "https://x.com/sequel_ovo/status/2051410681342410897/video/1",
+              "media_key": "13_2051410617274445824",
+              "start": 73,
+              "url": "https://t.co/X3PhI9Xx2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052406366313320792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051410681342410897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sequel_ovo: 相手は私のこと好きじゃないのに私はまだ好きで話したいの辛い #地雷系女子 #自撮り界隈 #裏アカ女子 #裏垢女子 https://t.co/X3PhI9Xx2W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051410617274445824"
+          ]
+        },
+        "author_id": "1989683790617382912",
+        "conversation_id": "2051410681342410897",
+        "created_at": "2026-05-04T21:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T22:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051410681342410897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 50,
+              "start": 44,
+              "tag": "裏アカ女子"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "裏垢女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3PhI9Xx2W",
+              "end": 80,
+              "expanded_url": "https://x.com/sequel_ovo/status/2051410681342410897/video/1",
+              "media_key": "13_2051410617274445824",
+              "start": 57,
+              "url": "https://t.co/X3PhI9Xx2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051410681342410897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5957,
+          "like_count": 96,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "相手は私のこと好きじゃないのに私はまだ好きで話したいの辛い #地雷系女子 #自撮り界隈 #裏アカ女子 #裏垢女子 https://t.co/X3PhI9Xx2W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 \n低浮上 我只是一個脆弱的小女孩😔 不接任何线下别来私信我",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 115,
+          "like_count": 1253,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 187
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T13:16:06.000Z",
+        "description": "喜欢我就给我过门槛🗝️ @sequel5418 @sequel2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "sequel5418"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "sequel2778"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@sequeliscute",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@sequeliscute",
+                "start": 0,
+                "url": "https://t.co/hdT02eDQD1"
+              }
+            ]
+          }
+        },
+        "id": "1989683790617382912",
+        "location": "🚪88/188/288/888",
+        "name": "sequel",
+        "pinned_tweet_id": "2028676407652753761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032109712427401217/ANzWnftu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 60,
+          "like_count": 3706,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/hdT02eDQD1",
+        "username": "sequel_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

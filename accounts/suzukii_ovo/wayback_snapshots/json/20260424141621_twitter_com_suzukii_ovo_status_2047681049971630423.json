@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047681038496022528"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2047681049971630423",
+    "created_at": "2026-04-24T14:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047681049971630423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i2AA362pim",
+          "end": 29,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2047681049971630423/photo/1",
+          "media_key": "3_2047681038496022528",
+          "start": 6,
+          "url": "https://t.co/i2AA362pim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047681049971630423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和我闺蜜 https://t.co/i2AA362pim"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1266,
+        "media_key": "3_2047681038496022528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrTDjDbwAArdAH.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047681038496022528"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "2047681049971630423",
+        "created_at": "2026-04-24T14:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047681049971630423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2AA362pim",
+              "end": 29,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2047681049971630423/photo/1",
+              "media_key": "3_2047681038496022528",
+              "start": 6,
+              "url": "https://t.co/i2AA362pim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047681049971630423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和我闺蜜 https://t.co/i2AA362pim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "低浮上 我只是一個脆弱的小女孩😔 不接任何线下别来私信我",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2011767024410866069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 110,
+          "like_count": 1193,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 164
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

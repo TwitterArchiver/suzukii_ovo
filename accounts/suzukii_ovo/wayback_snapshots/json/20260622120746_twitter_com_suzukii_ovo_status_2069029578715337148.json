@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069029565956255744",
+        "3_2069029565960433664",
+        "3_2069029566019174400"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069029578715337148",
+    "created_at": "2026-06-22T12:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069029578715337148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pTG7g3FbM6",
+          "end": 73,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2069029578715337148/photo/1",
+          "media_key": "3_2069029565956255744",
+          "start": 50,
+          "url": "https://t.co/pTG7g3FbM6"
+        },
+        {
+          "display_url": "pic.x.com/pTG7g3FbM6",
+          "end": 73,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2069029578715337148/photo/1",
+          "media_key": "3_2069029565960433664",
+          "start": 50,
+          "url": "https://t.co/pTG7g3FbM6"
+        },
+        {
+          "display_url": "pic.x.com/pTG7g3FbM6",
+          "end": 73,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2069029578715337148/photo/1",
+          "media_key": "3_2069029566019174400",
+          "start": 50,
+          "url": "https://t.co/pTG7g3FbM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069029578715337148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个人盗我图还圈到了好多188门槛 还圈到了2388。。啊哈哈。。我门槛才88都没人过呀 我好崩溃 https://t.co/pTG7g3FbM6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069029565956255744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLarbZSacAApCU2.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069029565960433664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLarbZTaMAAIMPy.jpg",
+        "width": 942
+      },
+      {
+        "height": 1860,
+        "media_key": "3_2069029566019174400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLarbZhagAA_NCG.jpg",
+        "width": 1047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069029565956255744",
+            "3_2069029565960433664",
+            "3_2069029566019174400"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069029578715337148",
+        "created_at": "2026-06-22T12:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069029578715337148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTG7g3FbM6",
+              "end": 73,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2069029578715337148/photo/1",
+              "media_key": "3_2069029565956255744",
+              "start": 50,
+              "url": "https://t.co/pTG7g3FbM6"
+            },
+            {
+              "display_url": "pic.x.com/pTG7g3FbM6",
+              "end": 73,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2069029578715337148/photo/1",
+              "media_key": "3_2069029565960433664",
+              "start": 50,
+              "url": "https://t.co/pTG7g3FbM6"
+            },
+            {
+              "display_url": "pic.x.com/pTG7g3FbM6",
+              "end": 73,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2069029578715337148/photo/1",
+              "media_key": "3_2069029566019174400",
+              "start": 50,
+              "url": "https://t.co/pTG7g3FbM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069029578715337148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个人盗我图还圈到了好多188门槛 还圈到了2388。。啊哈哈。。我门槛才88都没人过呀 我好崩溃 https://t.co/pTG7g3FbM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 可验证 不线下\n低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 100,
+          "like_count": 1495,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

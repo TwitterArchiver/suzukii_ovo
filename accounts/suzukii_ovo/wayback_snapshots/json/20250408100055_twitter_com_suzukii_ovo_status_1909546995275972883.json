@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909546981846077440",
+        "3_1909546981841944576"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1909546995275972883",
+    "created_at": "2025-04-08T10:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T11:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909546995275972883"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ta8rG3uM1R",
+          "end": 30,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1909546995275972883/photo/1",
+          "media_key": "3_1909546981846077440",
+          "start": 7,
+          "url": "https://t.co/ta8rG3uM1R"
+        },
+        {
+          "display_url": "pic.x.com/ta8rG3uM1R",
+          "end": 30,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1909546995275972883/photo/1",
+          "media_key": "3_1909546981841944576",
+          "start": 7,
+          "url": "https://t.co/ta8rG3uM1R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909546995275972883",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈 https://t.co/ta8rG3uM1R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909546981846077440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoAS3N7a0AAiIv1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1909546981841944576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoAS3N6bwAA1Poy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909546981846077440",
+            "3_1909546981841944576"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1909546995275972883",
+        "created_at": "2025-04-08T10:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T11:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909546995275972883"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ta8rG3uM1R",
+              "end": 30,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1909546995275972883/photo/1",
+              "media_key": "3_1909546981846077440",
+              "start": 7,
+              "url": "https://t.co/ta8rG3uM1R"
+            },
+            {
+              "display_url": "pic.x.com/ta8rG3uM1R",
+              "end": 30,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1909546995275972883/photo/1",
+              "media_key": "3_1909546981841944576",
+              "start": 7,
+              "url": "https://t.co/ta8rG3uM1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909546995275972883",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/ta8rG3uM1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "剛轉生到這",
+        "id": "1909540060699279362",
+        "name": "suzukiii_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909540664020439040/5OKP6sRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2054793319272874138",
+    "created_at": "2026-05-14T10:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054877454075077053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2006834103006670848",
+          "start": 0,
+          "username": "Zhangtianyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054877454075077053",
+    "in_reply_to_user_id": "2006834103006670848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054872556226875842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhangtianyyy 我这里没有金匠😨💔我也爱吃金匠…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2054793319272874138",
+        "created_at": "2026-05-14T10:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054877454075077053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2006834103006670848",
+              "start": 0,
+              "username": "Zhangtianyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054877454075077053",
+        "in_reply_to_user_id": "2006834103006670848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054872556226875842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhangtianyyy 我这里没有金匠😨💔我也爱吃金匠…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006834103006670848",
+        "conversation_id": "2054793319272874138",
+        "created_at": "2026-05-14T10:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054872556226875842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909540060699279362",
+              "start": 0,
+              "username": "suzukii_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054872556226875842",
+        "in_reply_to_user_id": "1909540060699279362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054793319272874138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzukii_ovo 金匠无敌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 \n低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 105,
+          "like_count": 1294,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 203
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T21:07:19.000Z",
+        "description": "ons",
+        "id": "2006834103006670848",
+        "location": "China",
+        "name": "Zhangtianyi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007346652085166080/zdpI6ytw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 241,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "Zhangtianyyy",
+        "verified": false
+      }
+    ]
+  }
+}

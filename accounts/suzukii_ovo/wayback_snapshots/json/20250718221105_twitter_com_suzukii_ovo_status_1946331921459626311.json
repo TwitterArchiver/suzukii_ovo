@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946331907039412224",
+        "3_1946331907022594048"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1946331921459626311",
+    "created_at": "2025-07-18T22:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T23:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946331921459626311"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 4,
+          "tag": "自撮り女子"
+        },
+        {
+          "end": 17,
+          "start": 11,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "地雷系"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L0SxHyxJdk",
+          "end": 46,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1946331921459626311/photo/1",
+          "media_key": "3_1946331907039412224",
+          "start": 23,
+          "url": "https://t.co/L0SxHyxJdk"
+        },
+        {
+          "display_url": "pic.x.com/L0SxHyxJdk",
+          "end": 46,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1946331921459626311/photo/1",
+          "media_key": "3_1946331907022594048",
+          "start": 23,
+          "url": "https://t.co/L0SxHyxJdk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946331921459626311",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白白的\n#自撮り女子 #地雷系女子 #地雷系 https://t.co/L0SxHyxJdk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946331907039412224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwLCjq4XwAAfzCj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946331907022594048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwLCjq0XIAAyEZ8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946331907039412224",
+            "3_1946331907022594048"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1946331921459626311",
+        "created_at": "2025-07-18T22:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T23:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946331921459626311"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "自撮り女子"
+            },
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L0SxHyxJdk",
+              "end": 46,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1946331921459626311/photo/1",
+              "media_key": "3_1946331907039412224",
+              "start": 23,
+              "url": "https://t.co/L0SxHyxJdk"
+            },
+            {
+              "display_url": "pic.x.com/L0SxHyxJdk",
+              "end": 46,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1946331921459626311/photo/1",
+              "media_key": "3_1946331907022594048",
+              "start": 23,
+              "url": "https://t.co/L0SxHyxJdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946331921459626311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白白的\n#自撮り女子 #地雷系女子 #地雷系 https://t.co/L0SxHyxJdk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "我只是个脆弱的小女孩。",
+        "id": "1909540060699279362",
+        "name": "AAA-豆芽种植批发牙齿哥",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941607774821154818/onsSD976_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 23,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 32
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

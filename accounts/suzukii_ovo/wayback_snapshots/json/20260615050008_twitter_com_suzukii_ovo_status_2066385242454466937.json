@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048742659926499328",
+        "3_2048742659943251969"
+      ],
+      "media_source_tweet_id": [
+        "2048746261726277696",
+        "2048746261726277696"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2066385242454466937",
+    "created_at": "2026-06-15T05:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066385242454466937"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 57,
+          "tag": "地雷系"
+        },
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "电子女友"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "穿孔"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "舌钉"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "纯绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360993383683006465",
+          "start": 3,
+          "username": "hikari285"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w79m1kfGM3",
+          "end": 108,
+          "expanded_url": "https://x.com/hikari285/status/2048746261726277696/photo/1",
+          "media_key": "3_2048742659926499328",
+          "start": 85,
+          "url": "https://t.co/w79m1kfGM3"
+        },
+        {
+          "display_url": "pic.x.com/w79m1kfGM3",
+          "end": 108,
+          "expanded_url": "https://x.com/hikari285/status/2048746261726277696/photo/1",
+          "media_key": "3_2048742659943251969",
+          "start": 85,
+          "url": "https://t.co/w79m1kfGM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066385242454466937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048746261726277696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikari285: 有门槛哥门槛妹来福利群一起玩嘛？🚪妹需要验证，🚪哥入群发🧧，详细可私信或加vx了解\n#地雷系 #门槛妹 #电子女友 #穿孔 #舌钉 #纯绿 https://t.co/w79m1kfGM3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066385242454466937].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066385242454466937",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066385242454466937"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2048742659926499328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6YmDEboAAtbSF.jpg",
+        "width": 932
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2048742659943251969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6YmDIbQAENDb8.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048742659926499328",
+            "3_2048742659943251969"
+          ]
+        },
+        "author_id": "1360993383683006465",
+        "conversation_id": "2048746261726277696",
+        "created_at": "2026-04-27T12:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048746261726277696"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "地雷系"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "电子女友"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "穿孔"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "舌钉"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "纯绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w79m1kfGM3",
+              "end": 93,
+              "expanded_url": "https://x.com/hikari285/status/2048746261726277696/photo/1",
+              "media_key": "3_2048742659926499328",
+              "start": 70,
+              "url": "https://t.co/w79m1kfGM3"
+            },
+            {
+              "display_url": "pic.x.com/w79m1kfGM3",
+              "end": 93,
+              "expanded_url": "https://x.com/hikari285/status/2048746261726277696/photo/1",
+              "media_key": "3_2048742659943251969",
+              "start": 70,
+              "url": "https://t.co/w79m1kfGM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048746261726277696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4405,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有门槛哥门槛妹来福利群一起玩嘛？🚪妹需要验证，🚪哥入群发🧧，详细可私信或加vx了解\n#地雷系 #门槛妹 #电子女友 #穿孔 #舌钉 #纯绿 https://t.co/w79m1kfGM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位\n低浮上 我只是一個脆弱的小女孩😔",
+        "id": "1909540060699279362",
+        "name": "我真的不要上学了",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 98,
+          "like_count": 1458,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 201
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T16:44:52.000Z",
+        "description": "药学工作/兴趣广泛/S/小⭕️微大\nod/喜欢地雷系和有疤痕的绝对领域",
+        "id": "1360993383683006465",
+        "name": "Hikaru285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950432803302043649/qJ03GZum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 2578,
+          "like_count": 477,
+          "listed_count": 5,
+          "media_count": 19,
+          "tweet_count": 228
+        },
+        "username": "hikari285",
+        "verified": false
+      }
+    ]
+  }
+}

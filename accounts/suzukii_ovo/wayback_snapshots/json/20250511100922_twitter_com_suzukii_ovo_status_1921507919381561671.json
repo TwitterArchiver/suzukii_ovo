@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921507902906572800",
+        "3_1921507902902394880",
+        "3_1921507903065735168"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "1921507919381561671",
+    "created_at": "2025-05-11T10:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T11:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921507919381561671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l1wDKZbXZM",
+          "end": 35,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1921507919381561671/photo/1",
+          "media_key": "3_1921507902906572800",
+          "start": 12,
+          "url": "https://t.co/l1wDKZbXZM"
+        },
+        {
+          "display_url": "pic.x.com/l1wDKZbXZM",
+          "end": 35,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1921507919381561671/photo/1",
+          "media_key": "3_1921507902902394880",
+          "start": 12,
+          "url": "https://t.co/l1wDKZbXZM"
+        },
+        {
+          "display_url": "pic.x.com/l1wDKZbXZM",
+          "end": 35,
+          "expanded_url": "https://x.com/suzukii_ovo/status/1921507919381561671/photo/1",
+          "media_key": "3_1921507903065735168",
+          "start": 12,
+          "url": "https://t.co/l1wDKZbXZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921507919381561671",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(&gt;﹏&lt;) https://t.co/l1wDKZbXZM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921507902906572800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqRQdHaIAAEroa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921507902902394880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqRQdGaYAAaohi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921507903065735168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqRQdtWwAAQ07r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921507902906572800",
+            "3_1921507902902394880",
+            "3_1921507903065735168"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "1921507919381561671",
+        "created_at": "2025-05-11T10:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T11:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921507919381561671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l1wDKZbXZM",
+              "end": 35,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1921507919381561671/photo/1",
+              "media_key": "3_1921507902906572800",
+              "start": 12,
+              "url": "https://t.co/l1wDKZbXZM"
+            },
+            {
+              "display_url": "pic.x.com/l1wDKZbXZM",
+              "end": 35,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1921507919381561671/photo/1",
+              "media_key": "3_1921507902902394880",
+              "start": 12,
+              "url": "https://t.co/l1wDKZbXZM"
+            },
+            {
+              "display_url": "pic.x.com/l1wDKZbXZM",
+              "end": 35,
+              "expanded_url": "https://x.com/suzukii_ovo/status/1921507919381561671/photo/1",
+              "media_key": "3_1921507903065735168",
+              "start": 12,
+              "url": "https://t.co/l1wDKZbXZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921507919381561671",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(&gt;﹏&lt;) https://t.co/l1wDKZbXZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "",
+        "id": "1909540060699279362",
+        "name": "Yukarii_✝︎☆₊⁺",
+        "pinned_tweet_id": "1909860172492947472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909540664020439040/5OKP6sRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 26,
+          "like_count": 65,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}
