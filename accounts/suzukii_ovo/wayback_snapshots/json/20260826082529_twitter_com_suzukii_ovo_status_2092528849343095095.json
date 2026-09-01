@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092329558586662912"
+      ],
+      "media_source_tweet_id": [
+        "2092329601624375626"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2092528849343095095",
+    "created_at": "2026-08-26T08:25:29.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T09:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092528849343095095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2088228234886574080",
+          "start": 3,
+          "username": "sakisaki8886"
+        },
+        {
+          "end": 30,
+          "id": "1338836540185665539",
+          "start": 23,
+          "username": "0xnmhs"
+        },
+        {
+          "end": 37,
+          "id": "1478962175947390976",
+          "start": 31,
+          "username": "cxb2b"
+        },
+        {
+          "end": 53,
+          "id": "1526487734227210240",
+          "start": 46,
+          "username": "wnq666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C7wO6ebNJg",
+          "end": 83,
+          "expanded_url": "https://x.com/sakisaki8886/status/2092329601624375626/video/1",
+          "media_key": "13_2092329558586662912",
+          "start": 60,
+          "url": "https://t.co/C7wO6ebNJg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092528849343095095",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2092329558586662912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092329601624375626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakisaki8886: 秘密👇：\n@0xnmhs\n@cxb2b\nX匿名投稿墙：\n@wnq666\n欢迎入门吖 https://t.co/C7wO6ebNJg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14870,
+        "height": 1280,
+        "media_key": "13_2092329558586662912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092329558586662912/img/_hvD2u0yqVNgrkI1.jpg",
+        "public_metrics": {
+          "view_count": 97
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092329558586662912/vid/avc1/320x568/NM3Eu9WnKqg_wigj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092329558586662912/vid/avc1/480x852/1igo7JqvikO3Tsfa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092329558586662912/vid/avc1/720x1280/YRDvvzy_-1qoWUi8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092329558586662912/pl/E930ROpzQ-8K3zbQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092329558586662912"
+          ],
+          "media_source_tweet_id": [
+            "2092329601624375626"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "2092528849343095095",
+        "created_at": "2026-08-26T08:25:29.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092528849343095095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2088228234886574080",
+              "start": 3,
+              "username": "sakisaki8886"
+            },
+            {
+              "end": 30,
+              "id": "1338836540185665539",
+              "start": 23,
+              "username": "0xnmhs"
+            },
+            {
+              "end": 37,
+              "id": "1478962175947390976",
+              "start": 31,
+              "username": "cxb2b"
+            },
+            {
+              "end": 53,
+              "id": "1526487734227210240",
+              "start": 46,
+              "username": "wnq666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7wO6ebNJg",
+              "end": 83,
+              "expanded_url": "https://x.com/sakisaki8886/status/2092329601624375626/video/1",
+              "media_key": "13_2092329558586662912",
+              "start": 60,
+              "url": "https://t.co/C7wO6ebNJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092528849343095095",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092329558586662912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092329601624375626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakisaki8886: 秘密👇：\n@0xnmhs\n@cxb2b\nX匿名投稿墙：\n@wnq666\n欢迎入门吖 https://t.co/C7wO6ebNJg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092329558586662912"
+          ]
+        },
+        "author_id": "2088228234886574080",
+        "conversation_id": "2092329601624375626",
+        "created_at": "2026-08-25T19:13:45.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T20:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092329601624375626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1338836540185665539",
+              "start": 5,
+              "username": "0xnmhs"
+            },
+            {
+              "end": 19,
+              "id": "1478962175947390976",
+              "start": 13,
+              "username": "cxb2b"
+            },
+            {
+              "end": 35,
+              "id": "1526487734227210240",
+              "start": 28,
+              "username": "wnq666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7wO6ebNJg",
+              "end": 65,
+              "expanded_url": "https://x.com/sakisaki8886/status/2092329601624375626/video/1",
+              "media_key": "13_2092329558586662912",
+              "start": 42,
+              "url": "https://t.co/C7wO6ebNJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092329601624375626",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092329558586662912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 254,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "秘密👇：\n@0xnmhs\n@cxb2b\nX匿名投稿墙：\n@wnq666\n欢迎入门吖 https://t.co/C7wO6ebNJg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "坐标浙江宁波🚪88好友位可验证\n只回复女孩子和口令",
+        "id": "1909540060699279362",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092528849343095095",
+        "name": "我操这个世界对我好坏",
+        "pinned_tweet_id": "2090978087425192019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909540060699279362/1744105204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2223,
+          "following_count": 92,
+          "like_count": 2084,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T11:39:19.000Z",
+        "description": "ip杭州 罩杯e 🉑🧵⬇️ 🈶🚪",
+        "id": "2088228234886574080",
+        "is_identity_verified": false,
+        "location": "88/150/288/388/520/1314/2888….",
+        "most_recent_tweet_id": "2092329601624375626",
+        "name": "玲奈",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090209071836377088/SXHXF7Hc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 17,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "sakisaki8886",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-15T13:21:39.000Z",
+        "description": "金辰@Jinchencosss｜高端群花阁@DominicColton1｜陈平安@cpacos888｜七喜@lolootremba｜小羊@Moshitaok｜库洛桃@kabirAhmmed1｜走停墙@CynthiaGar57193｜广告位招商🎀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Jinchencosss"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "DominicColton1"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "cpacos888"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "lolootremba"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "Moshitaok"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "kabirAhmmed1"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "CynthiaGar57193"
+              }
+            ]
+          }
+        },
+        "id": "1338836540185665539",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2038258007872868508",
+        "name": "CC黄小鸭",
+        "pinned_tweet_id": "1781678597687968179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1338836540185665539/1777690714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043392218908798976/fYWd2bKb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 475362,
+          "following_count": 552,
+          "like_count": 11448,
+          "listed_count": 507,
+          "media_count": 1,
+          "tweet_count": 10111
+        },
+        "url": "",
+        "username": "0xnmhs",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-06T05:30:52.000Z",
+        "description": "金辰@Jinchencosss｜高端群花阁@DominicColton1｜陈平安@cpacos888｜七喜@lolootremba｜小羊@Moshitaok｜库洛桃@kabirAhmmed1｜走停墙@CynthiaGar57193",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Jinchencosss"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "DominicColton1"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "cpacos888"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "lolootremba"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "Moshitaok"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "kabirAhmmed1"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "CynthiaGar57193"
+              }
+            ]
+          }
+        },
+        "id": "1478962175947390976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2036453662546075793",
+        "name": "好色仙人",
+        "pinned_tweet_id": "1651254071129686017",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1478962175947390976/1776019014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682674704879087617/7MVBqgLG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 52081,
+          "following_count": 213,
+          "like_count": 4683,
+          "listed_count": 139,
+          "media_count": 1,
+          "tweet_count": 5388
+        },
+        "url": "",
+        "username": "cxb2b",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-17T09:01:12.000Z",
+        "description": "推友的扩音器，乌托邦第一墙🔥 海外互帮互助//高价值交友//激情恋爱//恶棍曝光//深夜碰撞物理学//海外华人&留学生聚集地。私信投稿，可匿名。",
+        "id": "1526487734227210240",
+        "is_identity_verified": false,
+        "location": "网络投稿，注意甄别真假",
+        "most_recent_tweet_id": "2087680778087887141",
+        "name": "阿坤X万能墙｜匿名投稿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526487734227210240/1774862287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043404180120043520/-D61Vhtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172680,
+          "following_count": 337,
+          "like_count": 3220,
+          "listed_count": 337,
+          "media_count": 0,
+          "tweet_count": 5577
+        },
+        "url": "",
+        "username": "wnq666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

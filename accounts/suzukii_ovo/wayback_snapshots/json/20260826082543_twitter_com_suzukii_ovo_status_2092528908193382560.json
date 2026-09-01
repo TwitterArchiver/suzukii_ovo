@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2092528908193382560",
+    "created_at": "2026-08-26T08:25:43.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T09:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092528908193382560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1970115446327459840",
+          "start": 3,
+          "username": "Plateasung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092528908193382560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092371895132021225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Plateasung: 💟你好我叫sakura这是我的置顶૮ ´͈ ᗜ `͈ ა\n\n墙内看见我请无视 不然我会很尴尬w\n\n08｜地雷系｜自伤｜香烟重度依赖｜精神混乱\n\n同类互推互fo大欢迎！请和我玩吧\n\n私信过🚪或是赞助的话 我会很开心的☺️\n\n#いいねで気になった人お…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092371888077234176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQmZJXbbYAAQO5b.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2092528908193382560",
+        "created_at": "2026-08-26T08:25:43.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092528908193382560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1970115446327459840",
+              "start": 3,
+              "username": "Plateasung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092528908193382560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092371895132021225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Plateasung: 💟你好我叫sakura这是我的置顶૮ ´͈ ᗜ `͈ ა\n\n墙内看见我请无视 不然我会很尴尬w\n\n08｜地雷系｜自伤｜香烟重度依赖｜精神混乱\n\n同类互推互fo大欢迎！请和我玩吧\n\n私信过🚪或是赞助的话 我会很开心的☺️\n\n#いいねで気になった人お…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092371888077234176"
+          ]
+        },
+        "author_id": "1970115446327459840",
+        "conversation_id": "2092371895132021225",
+        "created_at": "2026-08-25T22:01:48.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T23:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092371895132021225"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 111,
+              "tag": "いいねで気になった人お迎え"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "友達募集"
+            },
+            {
+              "end": 144,
+              "start": 132,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 157,
+              "start": 145,
+              "tag": "地雷系さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFbaZ0teEu",
+              "end": 181,
+              "expanded_url": "https://x.com/Plateasung/status/2092371895132021225/photo/1",
+              "media_key": "3_2092371888077234176",
+              "start": 158,
+              "url": "https://t.co/hFbaZ0teEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092371895132021225",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092371888077234176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "💟你好我叫sakura这是我的置顶૮ ´͈ ᗜ `͈ ა\n\n墙内看见我请无视 不然我会很尴尬w\n\n08｜地雷系｜自伤｜香烟重度依赖｜精神混乱\n\n同类互推互fo大欢迎！请和我玩吧\n\n私信过🚪或是赞助的话 我会很开心的☺️\n\n#いいねで気になった人お迎え #友達募集 #病み垢さんと繋がりたい #地雷系さんと繋がりたい https://t.co/hFbaZ0teEu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "坐标浙江宁波🚪88好友位可验证\n只回复女孩子和口令",
+        "id": "1909540060699279362",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092528908193382560",
+        "name": "我操这个世界对我好坏",
+        "pinned_tweet_id": "2090978087425192019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909540060699279362/1744105204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2223,
+          "following_count": 93,
+          "like_count": 2084,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-22T13:18:28.000Z",
+        "description": "欢迎来到sakura的乌托邦\n08 不登校 不线下 不闲聊 不健全\n互fo交友大欢迎！！！\n我的频道https://t.co/We3cOAH5PR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/saotomesakura",
+                "end": 73,
+                "expanded_url": "https://t.me/saotomesakura",
+                "start": 50,
+                "url": "https://t.co/We3cOAH5PR"
+              }
+            ]
+          }
+        },
+        "id": "1970115446327459840",
+        "is_identity_verified": false,
+        "location": "过🚪详情看我频道",
+        "most_recent_tweet_id": "2092405591516008562",
+        "name": "请不要无视我的眼泪",
+        "pinned_tweet_id": "2092371895132021225",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970115446327459840/1773819692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090068938646556672/UVgY0sNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 23,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "Plateasung",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

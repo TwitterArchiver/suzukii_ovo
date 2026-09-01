@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2090450959587827905",
+    "created_at": "2026-08-20T14:48:42.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090450959587827905"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090450959587827905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宁波有没有老师约绳的(&gt;﹏&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2090450959587827905",
+        "created_at": "2026-08-20T14:48:42.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090450959587827905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090450959587827905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宁波有没有老师约绳的(&gt;﹏&lt;)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位可验证 线下只接纯绿\n只回复女孩子和口令",
+        "id": "1909540060699279362",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090450959587827905",
+        "name": "我操这个世界对我好坏",
+        "pinned_tweet_id": "2089621551411007751",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909540060699279362/1744105204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 86,
+          "like_count": 2010,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

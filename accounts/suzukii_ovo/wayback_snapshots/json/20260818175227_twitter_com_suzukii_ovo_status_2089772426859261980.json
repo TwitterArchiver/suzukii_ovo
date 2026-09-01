@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2089772426859261980",
+    "created_at": "2026-08-18T17:52:27.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T18:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089772426859261980"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089772426859261980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想粗去玩…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2089772426859261980",
+        "created_at": "2026-08-18T17:52:27.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089772426859261980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089772426859261980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想粗去玩…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位188开放线下 可验证 只接纯绿\n只回复女孩子和口令",
+        "id": "1909540060699279362",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089772426859261980",
+        "name": "我操这个世界对我好坏",
+        "pinned_tweet_id": "2089621551411007751",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909540060699279362/1744105204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 84,
+          "like_count": 1966,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2089782779299106949",
+    "created_at": "2026-08-18T18:33:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T19:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089782779299106949"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 118,
+          "start": 114,
+          "tag": "爸爸奴"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "非绿"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "线下"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "一日女友"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "k8"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966022890287149060",
+          "start": 3,
+          "username": "7kever96"
+        },
+        {
+          "end": 34,
+          "id": "1879531417925001216",
+          "start": 23,
+          "username": "7kever9640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089782779299106949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037484400892613056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7kever96: 💟我是77  前世@7kever9640 眼熟我的求关注求转发\n\n💟入门52  口令红包/赞赏码 即可解锁线下\n\n💟喜欢我请多多投喂 欢迎交友互fo互转^ \n\n#爸爸活 #妈妈活 #门槛妹 #门槛哥 #爸爸奴  #非绿 #线下 #一日女友 #k8 #…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [7kever9640].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "7kever9640",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "7kever9640"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037484362363768832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaZO4YbEAAM1Sb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037484362363809792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaZO4YbsAARWrr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1572,
+        "media_key": "3_2037484362355351552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaZO4WaoAAvTVr.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2089782779299106949",
+        "created_at": "2026-08-18T18:33:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089782779299106949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "爸爸奴"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "非绿"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "线下"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "一日女友"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "k8"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966022890287149060",
+              "start": 3,
+              "username": "7kever96"
+            },
+            {
+              "end": 34,
+              "id": "1879531417925001216",
+              "start": 23,
+              "username": "7kever9640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089782779299106949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037484400892613056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7kever96: 💟我是77  前世@7kever9640 眼熟我的求关注求转发\n\n💟入门52  口令红包/赞赏码 即可解锁线下\n\n💟喜欢我请多多投喂 欢迎交友互fo互转^ \n\n#爸爸活 #妈妈活 #门槛妹 #门槛哥 #爸爸奴  #非绿 #线下 #一日女友 #k8 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037484362363768832",
+            "3_2037484362363809792",
+            "3_2037484362355351552"
+          ]
+        },
+        "author_id": "1966022890287149060",
+        "conversation_id": "2037484400892613056",
+        "created_at": "2026-03-27T10:58:30.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037484400892613056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "爸爸奴"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "非绿"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "线下"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "一日女友"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "k8"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "包养"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "金主"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1879531417925001216",
+              "start": 9,
+              "username": "7kever9640"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TpWwItgM7",
+              "end": 155,
+              "expanded_url": "https://x.com/7kever96/status/2037484400892613056/photo/1",
+              "media_key": "3_2037484362363768832",
+              "start": 132,
+              "url": "https://t.co/0TpWwItgM7"
+            },
+            {
+              "display_url": "pic.x.com/0TpWwItgM7",
+              "end": 155,
+              "expanded_url": "https://x.com/7kever96/status/2037484400892613056/photo/1",
+              "media_key": "3_2037484362363809792",
+              "start": 132,
+              "url": "https://t.co/0TpWwItgM7"
+            },
+            {
+              "display_url": "pic.x.com/0TpWwItgM7",
+              "end": 155,
+              "expanded_url": "https://x.com/7kever96/status/2037484400892613056/photo/1",
+              "media_key": "3_2037484362355351552",
+              "start": 132,
+              "url": "https://t.co/0TpWwItgM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037484400892613056",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2037484362363768832"
+          },
+          {
+            "media_key": "3_2037484362363809792"
+          },
+          {
+            "media_key": "3_2037484362355351552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 76130,
+          "like_count": 373,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "💟我是77  前世@7kever9640 眼熟我的求关注求转发\n\n💟入门52  口令红包/赞赏码 即可解锁线下\n\n💟喜欢我请多多投喂 欢迎交友互fo互转^ \n\n#爸爸活 #妈妈活 #门槛妹 #门槛哥 #爸爸奴  #非绿 #线下 #一日女友 #k8 #包养 #金主 https://t.co/0TpWwItgM7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位188开放线下 可验证 只接纯绿\n只回复女孩子和口令",
+        "id": "1909540060699279362",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089782779299106949",
+        "name": "我操这个世界对我好坏",
+        "pinned_tweet_id": "2089621551411007751",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909540060699279362/1744105204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 85,
+          "like_count": 1968,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-11T06:16:16.000Z",
+        "description": "good boy",
+        "id": "1966022890287149060",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088289827666207111",
+        "name": "克克煙",
+        "pinned_tweet_id": "2037484400892613056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1966022890287149060/1786086281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085615285663670272/Fu1JkVD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5669,
+          "following_count": 65,
+          "like_count": 202,
+          "listed_count": 9,
+          "media_count": 18,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "7kever96",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

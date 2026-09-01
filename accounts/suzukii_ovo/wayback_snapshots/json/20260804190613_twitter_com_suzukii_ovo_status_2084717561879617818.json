@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084717551041560576"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2084717561879617818",
+    "created_at": "2026-08-04T19:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T20:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084717561879617818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RydmeQm5e2",
+          "end": 23,
+          "expanded_url": "https://x.com/suzukii_ovo/status/2084717561879617818/photo/1",
+          "media_key": "3_2084717551041560576",
+          "start": 0,
+          "url": "https://t.co/RydmeQm5e2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084717561879617818",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/RydmeQm5e2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2084717551041560576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5nkT7awAA6ZrC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084717551041560576"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "2084717561879617818",
+        "created_at": "2026-08-04T19:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084717561879617818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RydmeQm5e2",
+              "end": 23,
+              "expanded_url": "https://x.com/suzukii_ovo/status/2084717561879617818/photo/1",
+              "media_key": "3_2084717551041560576",
+              "start": 0,
+              "url": "https://t.co/RydmeQm5e2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084717561879617818",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RydmeQm5e2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 可验证 不线下\n只回复女孩子和口令",
+        "id": "1909540060699279362",
+        "name": "我操这个世界对我好坏",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 79,
+          "like_count": 1745,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

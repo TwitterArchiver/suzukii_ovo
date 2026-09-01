@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085622946014670848",
+        "3_2085622945964326912",
+        "3_2085622946048143360",
+        "3_2085623000536436736"
+      ],
+      "media_source_tweet_id": [
+        "2085623628549570885",
+        "2085623628549570885",
+        "2085623628549570885",
+        "2085623628549570885"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "conversation_id": "2085624394949542257",
+    "created_at": "2026-08-07T07:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085624394949542257"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "地雷系"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "舌钉"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "分舌"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "纯绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360993383683006465",
+          "start": 3,
+          "username": "hikari285"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gRlgpb7fF2",
+          "end": 91,
+          "expanded_url": "https://x.com/hikari285/status/2085623628549570885/photo/1",
+          "media_key": "3_2085622946014670848",
+          "start": 68,
+          "url": "https://t.co/gRlgpb7fF2"
+        },
+        {
+          "display_url": "pic.x.com/gRlgpb7fF2",
+          "end": 91,
+          "expanded_url": "https://x.com/hikari285/status/2085623628549570885/photo/1",
+          "media_key": "3_2085622945964326912",
+          "start": 68,
+          "url": "https://t.co/gRlgpb7fF2"
+        },
+        {
+          "display_url": "pic.x.com/gRlgpb7fF2",
+          "end": 91,
+          "expanded_url": "https://x.com/hikari285/status/2085623628549570885/photo/1",
+          "media_key": "3_2085622946048143360",
+          "start": 68,
+          "url": "https://t.co/gRlgpb7fF2"
+        },
+        {
+          "display_url": "pic.x.com/gRlgpb7fF2",
+          "end": 91,
+          "expanded_url": "https://x.com/hikari285/status/2085623628549570885/photo/1",
+          "media_key": "3_2085623000536436736",
+          "start": 68,
+          "url": "https://t.co/gRlgpb7fF2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085624394949542257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085623628549570885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikari285: 有来🚪哥🚪妹福利群的嘛，🚪哥🧧进群，🚪妹验证进群，来一起玩呀！#门槛妹 #地雷系 #舌钉 #分舌 #纯绿 https://t.co/gRlgpb7fF2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 748,
+        "media_key": "3_2085622946014670848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGfBPCbsAAGclu.jpg",
+        "width": 756
+      },
+      {
+        "height": 1716,
+        "media_key": "3_2085622945964326912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGfBO2bgAAcy4t.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1828,
+        "media_key": "3_2085622946048143360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGfBPKacAA6XBu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1816,
+        "media_key": "3_2085623000536436736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGfEaJb0AAuMPk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085622946014670848",
+            "3_2085622945964326912",
+            "3_2085622946048143360",
+            "3_2085623000536436736"
+          ]
+        },
+        "author_id": "1360993383683006465",
+        "conversation_id": "2085623628549570885",
+        "created_at": "2026-08-07T07:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085623628549570885"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "地雷系"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "舌钉"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "分舌"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "纯绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRlgpb7fF2",
+              "end": 76,
+              "expanded_url": "https://x.com/hikari285/status/2085623628549570885/photo/1",
+              "media_key": "3_2085622946014670848",
+              "start": 53,
+              "url": "https://t.co/gRlgpb7fF2"
+            },
+            {
+              "display_url": "pic.x.com/gRlgpb7fF2",
+              "end": 76,
+              "expanded_url": "https://x.com/hikari285/status/2085623628549570885/photo/1",
+              "media_key": "3_2085622945964326912",
+              "start": 53,
+              "url": "https://t.co/gRlgpb7fF2"
+            },
+            {
+              "display_url": "pic.x.com/gRlgpb7fF2",
+              "end": 76,
+              "expanded_url": "https://x.com/hikari285/status/2085623628549570885/photo/1",
+              "media_key": "3_2085622946048143360",
+              "start": 53,
+              "url": "https://t.co/gRlgpb7fF2"
+            },
+            {
+              "display_url": "pic.x.com/gRlgpb7fF2",
+              "end": 76,
+              "expanded_url": "https://x.com/hikari285/status/2085623628549570885/photo/1",
+              "media_key": "3_2085623000536436736",
+              "start": 53,
+              "url": "https://t.co/gRlgpb7fF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085623628549570885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有来🚪哥🚪妹福利群的嘛，🚪哥🧧进群，🚪妹验证进群，来一起玩呀！#门槛妹 #地雷系 #舌钉 #分舌 #纯绿 https://t.co/gRlgpb7fF2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085622946014670848",
+            "3_2085622945964326912",
+            "3_2085622946048143360",
+            "3_2085623000536436736"
+          ],
+          "media_source_tweet_id": [
+            "2085623628549570885",
+            "2085623628549570885",
+            "2085623628549570885",
+            "2085623628549570885"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "conversation_id": "2085624394949542257",
+        "created_at": "2026-08-07T07:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085624394949542257"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "地雷系"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "舌钉"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "分舌"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "纯绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360993383683006465",
+              "start": 3,
+              "username": "hikari285"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRlgpb7fF2",
+              "end": 91,
+              "expanded_url": "https://x.com/hikari285/status/2085623628549570885/photo/1",
+              "media_key": "3_2085622946014670848",
+              "start": 68,
+              "url": "https://t.co/gRlgpb7fF2"
+            },
+            {
+              "display_url": "pic.x.com/gRlgpb7fF2",
+              "end": 91,
+              "expanded_url": "https://x.com/hikari285/status/2085623628549570885/photo/1",
+              "media_key": "3_2085622945964326912",
+              "start": 68,
+              "url": "https://t.co/gRlgpb7fF2"
+            },
+            {
+              "display_url": "pic.x.com/gRlgpb7fF2",
+              "end": 91,
+              "expanded_url": "https://x.com/hikari285/status/2085623628549570885/photo/1",
+              "media_key": "3_2085622946048143360",
+              "start": 68,
+              "url": "https://t.co/gRlgpb7fF2"
+            },
+            {
+              "display_url": "pic.x.com/gRlgpb7fF2",
+              "end": 91,
+              "expanded_url": "https://x.com/hikari285/status/2085623628549570885/photo/1",
+              "media_key": "3_2085623000536436736",
+              "start": 68,
+              "url": "https://t.co/gRlgpb7fF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085624394949542257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085623628549570885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hikari285: 有来🚪哥🚪妹福利群的嘛，🚪哥🧧进群，🚪妹验证进群，来一起玩呀！#门槛妹 #地雷系 #舌钉 #分舌 #纯绿 https://t.co/gRlgpb7fF2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 可验证 不线下\n只回复女孩子和口令",
+        "id": "1909540060699279362",
+        "name": "我操这个世界对我好坏",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 81,
+          "like_count": 1785,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T16:44:52.000Z",
+        "description": "药学工作/兴趣广泛/S/小⭕️微大\nod/喜欢地雷系和有疤痕的绝对领域",
+        "id": "1360993383683006465",
+        "name": "Hikaru285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950432803302043649/qJ03GZum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 2609,
+          "like_count": 488,
+          "listed_count": 5,
+          "media_count": 20,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "hikari285",
+        "verified": false
+      }
+    ]
+  }
+}

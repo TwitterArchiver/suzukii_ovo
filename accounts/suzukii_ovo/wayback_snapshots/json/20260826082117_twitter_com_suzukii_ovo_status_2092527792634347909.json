@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092238368310808576",
+        "3_2092238368931508224"
+      ],
+      "media_source_tweet_id": [
+        "2092238473940082969",
+        "2092238473940082969"
+      ]
+    },
+    "author_id": "1909540060699279362",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092527792634347909",
+    "created_at": "2026-08-26T08:21:17.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T09:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092527792634347909"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "女高"
+        },
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "找金主"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "堕落"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782336013148315648",
+          "start": 3,
+          "username": "cxhkl1314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JxKzaIEOFC",
+          "end": 129,
+          "expanded_url": "https://x.com/cxhkl1314/status/2092238473940082969/photo/1",
+          "media_key": "3_2092238368310808576",
+          "start": 106,
+          "url": "https://t.co/JxKzaIEOFC"
+        },
+        {
+          "display_url": "pic.x.com/JxKzaIEOFC",
+          "end": 129,
+          "expanded_url": "https://x.com/cxhkl1314/status/2092238473940082969/photo/1",
+          "media_key": "3_2092238368931508224",
+          "start": 106,
+          "url": "https://t.co/JxKzaIEOFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092527792634347909",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092238368310808576"
+      },
+      {
+        "media_key": "3_2092238368931508224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092238473940082969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cxhkl1314: 我是小恶我来当门槛妹圈钱了\n30：好友位\n99：好友位+图包\n188：偶尔找你，会聊天\n300：电子宠物一枚\n堕落女高呀08可验请支持我谢谢你喵\n＃门槛妹 ＃女高 ＃找金主 ＃堕落 https://t.co/JxKzaIEOFC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2092238368310808576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkftfib0AABXaY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092238368931508224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkfth2a8AA3omZ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092238368310808576",
+            "3_2092238368931508224"
+          ],
+          "media_source_tweet_id": [
+            "2092238473940082969",
+            "2092238473940082969"
+          ]
+        },
+        "author_id": "1909540060699279362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092527792634347909",
+        "created_at": "2026-08-26T08:21:17.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092527792634347909"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "女高"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "找金主"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "堕落"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782336013148315648",
+              "start": 3,
+              "username": "cxhkl1314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxKzaIEOFC",
+              "end": 129,
+              "expanded_url": "https://x.com/cxhkl1314/status/2092238473940082969/photo/1",
+              "media_key": "3_2092238368310808576",
+              "start": 106,
+              "url": "https://t.co/JxKzaIEOFC"
+            },
+            {
+              "display_url": "pic.x.com/JxKzaIEOFC",
+              "end": 129,
+              "expanded_url": "https://x.com/cxhkl1314/status/2092238473940082969/photo/1",
+              "media_key": "3_2092238368931508224",
+              "start": 106,
+              "url": "https://t.co/JxKzaIEOFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092527792634347909",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092238368310808576"
+          },
+          {
+            "media_key": "3_2092238368931508224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092238473940082969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cxhkl1314: 我是小恶我来当门槛妹圈钱了\n30：好友位\n99：好友位+图包\n188：偶尔找你，会聊天\n300：电子宠物一枚\n堕落女高呀08可验请支持我谢谢你喵\n＃门槛妹 ＃女高 ＃找金主 ＃堕落 https://t.co/JxKzaIEOFC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092238368310808576",
+            "3_2092238368931508224"
+          ]
+        },
+        "author_id": "1782336013148315648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092238473940082969",
+        "created_at": "2026-08-25T13:11:38.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092238473940082969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "女高"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "找金主"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "堕落"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxKzaIEOFC",
+              "end": 114,
+              "expanded_url": "https://x.com/cxhkl1314/status/2092238473940082969/photo/1",
+              "media_key": "3_2092238368310808576",
+              "start": 91,
+              "url": "https://t.co/JxKzaIEOFC"
+            },
+            {
+              "display_url": "pic.x.com/JxKzaIEOFC",
+              "end": 114,
+              "expanded_url": "https://x.com/cxhkl1314/status/2092238473940082969/photo/1",
+              "media_key": "3_2092238368931508224",
+              "start": 91,
+              "url": "https://t.co/JxKzaIEOFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092238473940082969",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092238368310808576"
+          },
+          {
+            "media_key": "3_2092238368931508224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 177,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是小恶我来当门槛妹圈钱了\n30：好友位\n99：好友位+图包\n188：偶尔找你，会聊天\n300：电子宠物一枚\n堕落女高呀08可验请支持我谢谢你喵\n＃门槛妹 ＃女高 ＃找金主 ＃堕落 https://t.co/JxKzaIEOFC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "坐标浙江宁波🚪88好友位可验证\n只回复女孩子和口令",
+        "id": "1909540060699279362",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092527792634347909",
+        "name": "我操这个世界对我好坏",
+        "pinned_tweet_id": "2090978087425192019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909540060699279362/1744105204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2222,
+          "following_count": 92,
+          "like_count": 2083,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T09:10:12.000Z",
+        "description": "对自己好点也算是扶贫了",
+        "id": "1782336013148315648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092527425771184206",
+        "name": "恋",
+        "pinned_tweet_id": "2092237789710655914",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782336013148315648/1767755110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091923725059076099/w514_9ME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 20,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "cxhkl1314",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
