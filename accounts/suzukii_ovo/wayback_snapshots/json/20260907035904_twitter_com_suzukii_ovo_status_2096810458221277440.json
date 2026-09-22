@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2096810458221277440",
+    "created_at": "2026-09-07T03:59:04.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T04:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096810458221277440"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 102,
+          "tag": "地雷系"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "K9"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "sp"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "捆绑"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "小圈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046983083120005121",
+          "start": 3,
+          "username": "Sidd_CAA2015"
+        },
+        {
+          "end": 57,
+          "id": "1909540060699279362",
+          "start": 45,
+          "username": "suzukii_ovo"
+        },
+        {
+          "end": 100,
+          "id": "166195768",
+          "start": 89,
+          "username": "Fengsiyuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/gY6",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/gY6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096810458221277440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096733176840454409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sidd_CAA2015: 约绳迟到了7分钟，1分钟10下sp不过分吧？\n\n🧚🏻：@suzukii_ovo \n\n紫毛小狗+K9缚真是太适合太可爱了，滴泪妹赛高！\n\n✉️：@fengsiyuan\n\n#地雷系 #K9 #sp #捆绑 #小圈 https://t.co/gY6…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 70937,
+        "height": 1920,
+        "media_key": "13_2096731243782287360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096731243782287360/img/Xis_zQMkw30D3ocP.jpg",
+        "public_metrics": {
+          "view_count": 4863
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096731243782287360/vid/avc1/320x568/0heRTvqE_m_0PSI7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096731243782287360/pl/x36KPxk4C1bDh3Ax.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096731243782287360/vid/avc1/1080x1920/iDp_tMh6584Qx8Ey.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096731243782287360/vid/avc1/480x852/X2jB56y8N_UBkcbx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096731243782287360/vid/avc1/720x1280/gr6BgIk6t_D6F2ad.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2096810458221277440",
+        "created_at": "2026-09-07T03:59:04.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096810458221277440"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "地雷系"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "K9"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "sp"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "捆绑"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "小圈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046983083120005121",
+              "start": 3,
+              "username": "Sidd_CAA2015"
+            },
+            {
+              "end": 57,
+              "id": "1909540060699279362",
+              "start": 45,
+              "username": "suzukii_ovo"
+            },
+            {
+              "end": 100,
+              "id": "166195768",
+              "start": 89,
+              "username": "Fengsiyuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/gY6",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/gY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096810458221277440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096733176840454409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sidd_CAA2015: 约绳迟到了7分钟，1分钟10下sp不过分吧？\n\n🧚🏻：@suzukii_ovo \n\n紫毛小狗+K9缚真是太适合太可爱了，滴泪妹赛高！\n\n✉️：@fengsiyuan\n\n#地雷系 #K9 #sp #捆绑 #小圈 https://t.co/gY6…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096731243782287360"
+          ]
+        },
+        "author_id": "2046983083120005121",
+        "conversation_id": "2096733176840454409",
+        "created_at": "2026-09-06T22:51:59.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096733176840454409"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "地雷系"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "K9"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "sp"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "捆绑"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "小圈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1909540060699279362",
+              "start": 27,
+              "username": "suzukii_ovo"
+            },
+            {
+              "end": 82,
+              "id": "166195768",
+              "start": 71,
+              "username": "Fengsiyuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gY60fzGmYL",
+              "end": 128,
+              "expanded_url": "https://x.com/Sidd_CAA2015/status/2096733176840454409/video/1",
+              "media_key": "13_2096731243782287360",
+              "start": 105,
+              "url": "https://t.co/gY60fzGmYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096733176840454409",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096731243782287360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 7106,
+          "like_count": 341,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "约绳迟到了7分钟，1分钟10下sp不过分吧？\n\n🧚🏻：@suzukii_ovo \n\n紫毛小狗+K9缚真是太适合太可爱了，滴泪妹赛高！\n\n✉️：@fengsiyuan\n\n#地雷系 #K9 #sp #捆绑 #小圈 https://t.co/gY60fzGmYL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "一个可爱的小牙牙\n可约拍",
+        "id": "1909540060699279362",
+        "is_identity_verified": false,
+        "location": "🚪188 只回口令",
+        "most_recent_tweet_id": "2096810458221277440",
+        "name": "一个小牙牙",
+        "pinned_tweet_id": "2090978087425192019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909540060699279362/1744105204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 115,
+          "like_count": 2277,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-22T16:03:19.000Z",
+        "description": "人人都爱悉达多，悉达多也让所有人满意。               白骑士dom||爱训狗爱玩SM || 是个活生生的人 || 欢迎关注 || 不盈利 || 约绳创作可私信 || 回不回看我心情",
+        "id": "2046983083120005121",
+        "is_identity_verified": false,
+        "location": "Savatthi",
+        "most_recent_tweet_id": "2096771104652280306",
+        "name": "Sidd悉达多",
+        "pinned_tweet_id": "2070644185611513971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046983083120005121/1776874106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046983686365810688/UZLpU4xd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36094,
+          "following_count": 383,
+          "like_count": 2635,
+          "listed_count": 129,
+          "media_count": 83,
+          "tweet_count": 493
+        },
+        "url": "",
+        "username": "Sidd_CAA2015",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-07-13T15:33:16.000Z",
+        "description": "元爱情动作片导演~旅居日本~\n艾特后没有被转发的朋友请私信\n\n币圈矿圈工作号@Zippler03 \n备用号@Zippler04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "Zippler03"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Zippler04"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/9c9gLwkmyjF",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/9c9gLwkmyjF",
+                "start": 0,
+                "url": "https://t.co/24X48cDKAl"
+              }
+            ]
+          }
+        },
+        "id": "166195768",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2096791859867812207",
+        "name": "Mr.死因",
+        "pinned_tweet_id": "2049003385270280648",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/166195768/1723961251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852268379937320960/-UxN7XvK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447724,
+          "following_count": 965,
+          "like_count": 24077,
+          "listed_count": 1739,
+          "media_count": 170,
+          "tweet_count": 54436
+        },
+        "url": "https://t.co/24X48cDKAl",
+        "username": "Fengsiyuan",
+        "verified": false,
+        "verified_type": "none",
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

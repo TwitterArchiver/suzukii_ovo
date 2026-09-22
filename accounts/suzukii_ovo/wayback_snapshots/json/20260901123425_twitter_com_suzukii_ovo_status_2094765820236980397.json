@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2087615413547065784",
+    "created_at": "2026-09-01T12:34:25.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T13:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094765820236980397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000377576330817536",
+          "start": 0,
+          "username": "mosOvOquito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094765820236980397",
+    "in_reply_to_user_id": "2000377576330817536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087615413547065784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mosOvOquito 你好可愛噢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9268,
+        "height": 1280,
+        "media_key": "13_2087615386510667776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087615386510667776/img/Wqg6n1jB28Una2Z9.jpg",
+        "public_metrics": {
+          "view_count": 22624
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087615386510667776/vid/avc1/320x568/IIbDeoZyKCKeoAgY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087615386510667776/vid/avc1/480x852/s6ZwBtxo4EFyJ6Re.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087615386510667776/vid/avc1/720x1280/M-_IL0WWZeJmv7SC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087615386510667776/pl/4PgvRrCtjwX0NmhR.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2087615413547065784",
+        "created_at": "2026-09-01T12:34:25.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094765820236980397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000377576330817536",
+              "start": 0,
+              "username": "mosOvOquito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094765820236980397",
+        "in_reply_to_user_id": "2000377576330817536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087615413547065784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mosOvOquito 你好可愛噢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087615386510667776"
+          ]
+        },
+        "author_id": "2000377576330817536",
+        "conversation_id": "2087615413547065784",
+        "created_at": "2026-08-12T19:01:15.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087615413547065784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAOQ5hKVCT",
+              "end": 32,
+              "expanded_url": "https://x.com/mosOvOquito/status/2087615413547065784/video/1",
+              "media_key": "13_2087615386510667776",
+              "start": 9,
+              "url": "https://t.co/KAOQ5hKVCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087615413547065784",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087615386510667776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 599,
+          "impression_count": 68551,
+          "like_count": 2673,
+          "quote_count": 4,
+          "reply_count": 23,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "Cute ⚈₃⚈ https://t.co/KAOQ5hKVCT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "坐标浙江宁波🚪88好友位可验证\n只回复女孩子和口令",
+        "id": "1909540060699279362",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094765820236980397",
+        "name": "我操这个世界对我好坏",
+        "pinned_tweet_id": "2090978087425192019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909540060699279362/1744105204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 98,
+          "like_count": 2155,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T01:38:24.000Z",
+        "description": "喜欢钱 低精力 温良版 最恶心的是亲嘴什么的啦 INTP和INFP和 ENTP来回切换~只玩🎶🍠和x 这个是我唯一账号 不收🚪 只分享有趣的生活😽谢谢你们喜欢我呦",
+        "id": "2000377576330817536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094030907988652372",
+        "name": "mosquito",
+        "pinned_tweet_id": "2087615413547065784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000377576330817536/1786735472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087848810777321474/ynHBU15h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6029,
+          "following_count": 27,
+          "like_count": 330,
+          "listed_count": 19,
+          "media_count": 181,
+          "tweet_count": 337
+        },
+        "url": "",
+        "username": "mosOvOquito",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

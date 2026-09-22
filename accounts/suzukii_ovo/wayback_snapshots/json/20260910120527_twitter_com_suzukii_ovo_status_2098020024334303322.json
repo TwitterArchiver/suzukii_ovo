@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2097967401539432562",
+    "created_at": "2026-09-10T12:05:27.000Z",
+    "display_text_range": [
+      21,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T13:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098020024334303322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979602341486886912",
+          "start": 0,
+          "username": "pinguo0103"
+        },
+        {
+          "end": 20,
+          "id": "1351086178611638272",
+          "start": 12,
+          "username": "xQian97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098020024334303322",
+    "in_reply_to_user_id": "1979602341486886912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097967401539432562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pinguo0103 @xQian97 妈咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097967389992435712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR16OcbaQAAkr7H.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2097967401539432562",
+        "created_at": "2026-09-10T12:05:27.000Z",
+        "display_text_range": [
+          21,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098020024334303322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979602341486886912",
+              "start": 0,
+              "username": "pinguo0103"
+            },
+            {
+              "end": 20,
+              "id": "1351086178611638272",
+              "start": 12,
+              "username": "xQian97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098020024334303322",
+        "in_reply_to_user_id": "1979602341486886912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097967401539432562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinguo0103 @xQian97 妈咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097967389992435712"
+          ]
+        },
+        "author_id": "1979602341486886912",
+        "conversation_id": "2097967401539432562",
+        "created_at": "2026-09-10T08:36:21.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097967401539432562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1351086178611638272",
+              "start": 12,
+              "username": "xQian97"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6CfGLTSA1",
+              "end": 44,
+              "expanded_url": "https://x.com/pinguo0103/status/2097967401539432562/photo/1",
+              "media_key": "3_2097967389992435712",
+              "start": 21,
+              "url": "https://t.co/g6CfGLTSA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097967401539432562",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097967389992435712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 899,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "比比喇布\n🪢&amp;📷@xQian97 https://t.co/g6CfGLTSA1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "一个可爱的小牙牙 坐标浙江\n可约拍 接纯绿线下🚪188只回口令",
+        "id": "1909540060699279362",
+        "is_identity_verified": false,
+        "location": "🚪188 只回口令",
+        "most_recent_tweet_id": "2098020024334303322",
+        "name": "一个小牙牙",
+        "pinned_tweet_id": "2090978087425192019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909540060699279362/1744105204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 115,
+          "like_count": 2400,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-18T17:36:07.000Z",
+        "description": "常驻杭州 可约绳约拍🚪288 过门回复",
+        "id": "1979602341486886912",
+        "is_identity_verified": false,
+        "location": "今晚可能好大风",
+        "most_recent_tweet_id": "2097967401539432562",
+        "name": "织zhi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979602341486886912/1762234931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979845351277219840/zIm1ONsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7086,
+          "following_count": 109,
+          "like_count": 293,
+          "listed_count": 24,
+          "media_count": 56,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "pinguo0103",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-18T08:37:12.000Z",
+        "description": "杭州·BDSM 男 Dom 緊縛•捆工 绳缚教学·成品绳出售 约绳约调请私信 人像摄影 欢迎约拍 不接推广",
+        "id": "1351086178611638272",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2097996067149398268",
+        "name": "潜",
+        "pinned_tweet_id": "2060687339387822532",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1351086178611638272/1639427033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475371849626251265/shPBk0cT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64046,
+          "following_count": 447,
+          "like_count": 1449,
+          "listed_count": 298,
+          "media_count": 234,
+          "tweet_count": 1532
+        },
+        "url": "",
+        "username": "xQian97",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

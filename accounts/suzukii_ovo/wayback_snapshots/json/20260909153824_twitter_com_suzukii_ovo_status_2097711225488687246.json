@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1909540060699279362",
+    "conversation_id": "2097711225488687246",
+    "created_at": "2026-09-09T15:38:24.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097711225488687246"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097711225488687246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有人都不要我了 我闺蜜也不要我了 想哭啊我不知道我到底怎么了😱😱😱我明明一直对她特别好呀…不是我的错不是我的错😔..我哭了好久了最近每天想到这个事情就会哭 我处理不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909540060699279362",
+        "conversation_id": "2097711225488687246",
+        "created_at": "2026-09-09T15:38:24.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097711225488687246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097711225488687246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人都不要我了 我闺蜜也不要我了 想哭啊我不知道我到底怎么了😱😱😱我明明一直对她特别好呀…不是我的错不是我的错😔..我哭了好久了最近每天想到这个事情就会哭 我处理不好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "一个可爱的小牙牙 坐标浙江\n可约拍 接纯绿线下🚪188只回口令",
+        "id": "1909540060699279362",
+        "is_identity_verified": false,
+        "location": "🚪188 只回口令",
+        "most_recent_tweet_id": "2097711225488687246",
+        "name": "一个小牙牙",
+        "pinned_tweet_id": "2090978087425192019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909540060699279362/1744105204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 111,
+          "like_count": 2375,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
